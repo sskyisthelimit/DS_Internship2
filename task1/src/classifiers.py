@@ -36,7 +36,7 @@ class RFMnistClassifier(MnistClassifierInterface):
             y_train.extend(labels.numpy())
         self.model.fit(X_train, y_train)
 
-    def eval(self, loader, log_file="RF_report.log"):
+    def eval(self, loader, log_filename="RF_report.log"):
         y_true, y_pred = [], []
         pbar = tqdm(loader, desc="RF Evaluation", unit="batch")
         for images, labels in pbar:
@@ -44,7 +44,7 @@ class RFMnistClassifier(MnistClassifierInterface):
             y_pred.extend(preds)
             y_true.extend(labels.numpy())
         report = classification_report(y_true, y_pred, digits=4)
-        with open(log_file, "w") as f:
+        with open(log_filename, "w") as f:
             f.write(report)
         
         print("RF classification report")
