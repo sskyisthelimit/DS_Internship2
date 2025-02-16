@@ -29,7 +29,7 @@ class RFMnistClassifier(MnistClassifierInterface):
     def __init__(self, n_estimators=100):
         self.model = RandomForestClassifier(n_estimators=n_estimators)
 
-    def train(self, loader):
+    def train(self, loader, epochs=1):
         X_train, y_train = [], []
         for images, labels in loader:
             X_train.extend(images.view(images.shape[0], -1).numpy())
