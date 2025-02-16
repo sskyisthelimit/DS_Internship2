@@ -14,6 +14,6 @@ class MnistDataset(Dataset):
 
     def __getitem__(self, idx):
         image = torch.tensor(self.images[idx], dtype=torch.float32).unsqueeze(0) / 255
-        label = torch.tensor(self.labels[idx], dtype=torch.int32)
+        label = torch.tensor(self.labels[idx], dtype=torch.long)
 
         return image, label
