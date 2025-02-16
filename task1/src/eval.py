@@ -15,20 +15,23 @@ def eval_models(datapath, batch_size, device, weights_dir, reports_dir):
                              shuffle=False)
 
     cnn_classifier = MnistClassifier("cnn", device=device)
-    cnn_classifier.load(weights_dir)
+    cnn_weights_path = os.path.join(weights_dir, "cnn_weights.pth")
+    cnn_classifier.load(cnn_weights_path)
     print("Starting evaluation of CNN")
     cnn_report_path = os.path.join(reports_dir, "CNN_report.log")
     cnn_classifier.eval(test_loader, log_filename=cnn_report_path)
     
     fcnn_classifier = MnistClassifier("nn", device=device)
-    fcnn_classifier.load(weights_dir)
+    fcnn_weights_path = os.path.join(weights_dir, "fcnn_weights.pth")
+    fcnn_classifier.load(fcnn_weights_path)
 
     print("Starting evaluation of FCNN")
     fcnn_report_path = os.path.join(reports_dir, "FCNN_report.log")
     fcnn_classifier.eval(test_loader, log_filename=fcnn_report_path)
 
     rf_classifier = MnistClassifier("rf", device=device)
-    rf_classifier.load(weights_dir)
+    rf_weights_path = os.path.join(weights_dir, "rf_weights.gz")
+    rf_classifier.load(rf_weights_path)
 
     print("Starting evaluation of RF")
     rf_report_path = os.path.join(reports_dir, "RF_report.log")
