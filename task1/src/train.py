@@ -33,7 +33,7 @@ def train_models(datapath, batch_size, device, weights_save_dir):
     rf_classifier.save(rf_weights_path)
 
 
-if __name__ == 'main':
+if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Training script for MNIST")
     parser.add_argument("--datapath", type=str, required=True, help="Path to the folder with dataset (with default filenames).")
     parser.add_argument("--batch_size", type=int, default=64, help="Batch size for models.")

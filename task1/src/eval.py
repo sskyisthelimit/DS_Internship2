@@ -38,7 +38,7 @@ def eval_models(datapath, batch_size, device, weights_dir, reports_dir):
     rf_classifier.eval(test_loader, log_filename=rf_report_path)
 
 
-if __name__ == 'main':
+if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Training script for MNIST")
     parser.add_argument("--datapath", type=str, required=True, help="Path to the folder with dataset (with default filenames).")
     parser.add_argument("--batch_size", type=int, default=64, help="Batch size for models.")
