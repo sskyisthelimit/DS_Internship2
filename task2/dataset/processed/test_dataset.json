@@ -1,0 +1,889 @@
+{
+    "classes": [
+        "B-ANIMAL",
+        "I-ANIMAL"
+    ],
+    "annotations": [
+        [
+            "My dog is a chihuahua mix and she’s 16 and is declining in health.",
+            {
+                "entities": [
+                    [
+                        3,
+                        6,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        12,
+                        21,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "She’s on a chicken and rice diet because she was vomiting and it had blood in it.",
+            {
+                "entities": [
+                    [
+                        11,
+                        18,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "She hasn’t thrown up since I started the chicken and rice but I look at her and all I can think about is how she’s in pain.",
+            {
+                "entities": [
+                    [
+                        41,
+                        48,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I do get angry when I see posts where the dog is actively dying and the owner is \"should I take him to the vet?",
+            {
+                "entities": [
+                    [
+                        42,
+                        45,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My Shih Tzu got diagnosed with kidney disease a year ago, and recently it worsened a lot.",
+            {
+                "entities": [
+                    [
+                        3,
+                        7,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        8,
+                        11,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Pilot whales are the only animal with a higher brain-to-body mass ratio than humans, and they regularly commit mass suicide by beaching in the hundreds or thousands due to echolocation malfunctions.",
+            {
+                "entities": [
+                    [
+                        0,
+                        5,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        6,
+                        12,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Squirrels plant thousands of trees every year by forgetting where they buried their nuts.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Wombats have cube-shaped poop and backward-facing pouches to keep dirt out while digging.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Giraffes have the same number of neck vertebrae as humans—seven.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Spider silk is initially liquid and hardens into a material five times stronger than steel.",
+            {
+                "entities": [
+                    [
+                        0,
+                        6,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I always get chills when I see a spider crawling on my ceiling; it's both fascinating and terrifying.",
+            {
+                "entities": [
+                    [
+                        33,
+                        39,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I once spent an entire afternoon watching a spider build its web—it was like witnessing a master artist at work.",
+            {
+                "entities": [
+                    [
+                        44,
+                        50,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I love how some Reddit threads celebrate the beauty of spiders, even if most people find them creepy.",
+            {
+                "entities": [
+                    [
+                        55,
+                        62,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The contrast between a spider's delicate web and its fierce hunting skills is something I find endlessly fascinating.",
+            {
+                "entities": [
+                    [
+                        23,
+                        29,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Despite my fear, I've grown to respect spiders after learning about their role in balancing nature.",
+            {
+                "entities": [
+                    [
+                        39,
+                        46,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Butterflies are a sign of good luck, I always feel happy when I see one.",
+            {
+                "entities": [
+                    [
+                        0,
+                        11,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I've taken a lot of photos of the butterflies I saw in Leyte, Philippines, including the Atlas Moth.",
+            {
+                "entities": [
+                    [
+                        34,
+                        45,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        89,
+                        94,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        95,
+                        99,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I'm trying to create a butterfly-friendly habitat in my backyard.",
+            {
+                "entities": []
+            }
+        ],
+        [
+            "I'm fascinated by the monarch butterfly migration, it's such an incredible journey.",
+            {
+                "entities": [
+                    [
+                        22,
+                        29,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        30,
+                        39,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Anyone know what kind of butterfly this is? It's got black and yellow stripes.",
+            {
+                "entities": [
+                    [
+                        25,
+                        34,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Monarch Butterflies are in danger. The numbers are steadily going down and the annual migration is in danger of disappearing.",
+            {
+                "entities": [
+                    [
+                        0,
+                        7,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        8,
+                        19,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The best way to help butterflies is by giving them habitat, both host plants for caterpillars, and native local nectar plants.",
+            {
+                "entities": [
+                    [
+                        21,
+                        32,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        81,
+                        93,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Usually by this time there are eggs and cats all over my host plants.",
+            {
+                "entities": [
+                    [
+                        40,
+                        44,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have only seen one monarch in my yard in CT, and it’s July.",
+            {
+                "entities": [
+                    [
+                        21,
+                        28,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I put pots of dill out in my garden and when they get covered in swallowtails I transfer them into a net enclosure to keep the birds from eating them and release them when they grow up.",
+            {
+                "entities": [
+                    [
+                        65,
+                        77,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        127,
+                        132,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have Highland cattle.",
+            {
+                "entities": [
+                    [
+                        7,
+                        15,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        16,
+                        22,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We have a mix of Hereford and Galloway (oreo) cows.",
+            {
+                "entities": [
+                    [
+                        17,
+                        25,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        30,
+                        38,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        46,
+                        50,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We have been doing sheep for 13 years and have never bothered with wool sheep.",
+            {
+                "entities": [
+                    [
+                        19,
+                        24,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        72,
+                        77,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We do purebred Herefords, but the last couple years we’ve thrown a black Angus in with some of our heifers to get the most beautiful black baldies.",
+            {
+                "entities": [
+                    [
+                        15,
+                        24,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        67,
+                        72,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        73,
+                        78,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        99,
+                        106,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Look into the Polypay breed.",
+            {
+                "entities": [
+                    [
+                        14,
+                        21,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "If you want wool and meat, the Gulf Coast is awesome because it is very parasite resistant.",
+            {
+                "entities": [
+                    [
+                        31,
+                        35,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        36,
+                        41,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "We stick with St Croix, which produce twins with alarming regularity twice a year and grow into good sized sheep quickly.",
+            {
+                "entities": [
+                    [
+                        14,
+                        16,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        17,
+                        22,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        107,
+                        112,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I started with Icelandics but quickly found that hybrids have better growth rates and survivability.",
+            {
+                "entities": [
+                    [
+                        15,
+                        25,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have a Rocky Mountain Horse.",
+            {
+                "entities": [
+                    [
+                        9,
+                        14,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        15,
+                        23,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        24,
+                        29,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I have an ex-Amish Percheron and she's wonderful! Lots of them go to rescue too.",
+            {
+                "entities": [
+                    [
+                        19,
+                        28,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "My favorite ride is a retired Argentine Thoroughbred polo pony.",
+            {
+                "entities": [
+                    [
+                        53,
+                        57,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        58,
+                        62,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Tall ones, small ones, bratty ponies, draft crosses, piebalds and tobianos and wall-eyed ones.",
+            {
+                "entities": [
+                    [
+                        30,
+                        36,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The little Eurasian red ones with feathery ears they look magical, otherworldly to me.",
+            {
+                "entities": [
+                    [
+                        11,
+                        19,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        20,
+                        23,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I’d love to see a black squirrel one day.",
+            {
+                "entities": [
+                    [
+                        18,
+                        23,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        24,
+                        32,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "They're melanistic grey squirrels and are all over the NE US.",
+            {
+                "entities": [
+                    [
+                        19,
+                        23,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        24,
+                        33,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "I've seen large black squirrels with white noses many times over the years and refuse to believe it's been the same squirrel every time.",
+            {
+                "entities": [
+                    [
+                        16,
+                        21,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        22,
+                        31,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        116,
+                        124,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The African bush elephant and the Asian elephant are both listed as endangered by the IUCN.",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        12,
+                        16,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        17,
+                        25,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        34,
+                        39,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        40,
+                        48,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The difference in genus name between African (Loxodonta) and Asian (Elephas) elephants is due to advances made in paleontology.",
+            {
+                "entities": [
+                    [
+                        77,
+                        86,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The African Bush Elephants, especially the big tuskers, could be introduced on trial to the Southwest plains.",
+            {
+                "entities": [
+                    [
+                        4,
+                        11,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        12,
+                        16,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        17,
+                        26,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "The Asian Elephants could be introduced in the Southeastern forests to replace the extinct Mastodons that once roamed there.",
+            {
+                "entities": [
+                    [
+                        4,
+                        9,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        10,
+                        19,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        91,
+                        100,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Elephants eat primary producers.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "An animal the size of an elephant would end up requiring orders of magnitudes more surface area to radiate heat.",
+            {
+                "entities": [
+                    [
+                        25,
+                        33,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Brazilian wandering spiders the one animal I truly, genuinely fear.",
+            {
+                "entities": [
+                    [
+                        0,
+                        9,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        10,
+                        19,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        20,
+                        27,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Brown recluse, worst spider bite you can get.",
+            {
+                "entities": [
+                    [
+                        21,
+                        27,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Trapdoor spider butts freak me out.",
+            {
+                "entities": [
+                    [
+                        0,
+                        8,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        9,
+                        15,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "True Spiders are roughly the size of mastiffs and can communicate telepathically.",
+            {
+                "entities": [
+                    [
+                        5,
+                        12,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        37,
+                        45,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Araneid is a constructed language that is exclusively adapted for use by spiders.",
+            {
+                "entities": [
+                    [
+                        73,
+                        80,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            "Not necessarily a death sentence, but it depends on the type of spider and where you live!",
+            {
+                "entities": [
+                    [
+                        64,
+                        70,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            " Now I realize the whole time she was talking about Pallas Cats!",
+            {
+                "entities": [
+                    [
+                        52,
+                        58,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        59,
+                        63,
+                        "I-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            " Sand cats are another absolute W cat.",
+            {
+                "entities": [
+                    [
+                        1,
+                        5,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        6,
+                        10,
+                        "I-ANIMAL"
+                    ],
+                    [
+                        34,
+                        37,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ],
+        [
+            " It's wild, the smallest feline in the world stays the size of a kitten.",
+            {
+                "entities": [
+                    [
+                        25,
+                        31,
+                        "B-ANIMAL"
+                    ],
+                    [
+                        65,
+                        71,
+                        "B-ANIMAL"
+                    ]
+                ]
+            }
+        ]
+    ]
+}
