@@ -1,0 +1,2165 @@
+class,scientific_name,common_name
+Mammalia,Felis catus,Cat
+Mammalia,Canis lupus familiaris,Dog
+Mammalia,Equus ferus caballus,Horse
+Mammalia,Bos taurus,Cow
+Mammalia,Sus scrofa domesticus,Pig
+Mammalia,Ovis aries,Sheep
+Mammalia,Capra aegagrus hircus,Goat
+Mammalia,Rattus norvegicus,Brown Rat
+Mammalia,Mus musculus,House Mouse
+Mammalia,Macaca mulatta,Rhesus Macaque
+Mammalia,Pan troglodytes,Chimpanzee
+Mammalia,Gorilla gorilla,Gorilla
+Mammalia,Loxodonta africana,African Elephant
+Mammalia,Panthera leo,Lion
+Mammalia,Panthera tigris,Tiger
+Mammalia,Ursus arctos,Brown Bear
+Mammalia,Canis lupus,Wolf
+Mammalia,Vulpes vulpes,Red Fox
+Mammalia,Oryctolagus cuniculus,Rabbit
+Mammalia,Orycteropus afer,Aardvark
+Mammalia,Equus asinus,Donkey
+Mammalia,Lama glama,Llama
+Mammalia,Vicugna pacos,Alpaca
+Mammalia,Cervus elaphus,Red Deer
+Mammalia,Alces alces,Moose
+Mammalia,Odocoileus virginianus,White-tailed Deer
+Mammalia,Bubalus bubalis,Water Buffalo
+Mammalia,Camelus dromedarius,Dromedary Camel
+Mammalia,Camelus bactrianus,Bactrian Camel
+Mammalia,Equus zebra,Zebra
+Mammalia,Tapirus terrestris,Brazilian Tapir
+Mammalia,Dama dama,Fallow Deer
+Mammalia,Pteropus vampyrus,Large Flying Fox
+Mammalia,Chinchilla lanigera,Chinchilla
+Mammalia,Sciurus carolinensis,Eastern Gray Squirrel
+Mammalia,Castor canadensis,North American Beaver
+Mammalia,Erinaceus europaeus,European Hedgehog
+Mammalia,Sorex araneus,Common Shrew
+Mammalia,Dasypus novemcinctus,Nine-banded Armadillo
+Mammalia,Monodelphis domestica,Gray Short-tailed Opossum
+Mammalia,Peromyscus maniculatus,Deer Mouse
+Mammalia,Microtus ochrogaster,Prairie Vole
+Mammalia,Heterocephalus glaber,Naked Mole-rat
+Mammalia,Myotis lucifugus,Little Brown Bat
+Mammalia,Eptesicus fuscus,Big Brown Bat
+Mammalia,Tadarida brasiliensis,Brazilian Free-tailed Bat
+Mammalia,Pipistrellus pipistrellus,Common Pipistrelle
+Mammalia,Rousettus aegyptiacus,Egyptian Fruit Bat
+Mammalia,Pteronotus parnellii,Parnell's Mustached Bat
+Mammalia,Muntiacus muntjak,Indian Muntjac
+Mammalia,Rangifer tarandus,Reindeer
+Mammalia,Ursus maritimus,Polar Bear
+Mammalia,Neofelis nebulosa,Clouded Leopard
+Mammalia,Panthera pardus,Leopard
+Mammalia,Puma concolor,Cougar
+Mammalia,Lynx lynx,Eurasian Lynx
+Mammalia,Martes martes,Pine Marten
+Mammalia,Mustela putorius furo,Ferret
+Mammalia,Meles meles,European Badger
+Mammalia,Mephitis mephitis,Striped Skunk
+Mammalia,Procyon lotor,Raccoon
+Mammalia,Vulpes lagopus,Arctic Fox
+Mammalia,Castor fiber,Eurasian Beaver
+Mammalia,Lutra lutra,Eurasian Otter
+Mammalia,Enhydra lutris,Sea Otter
+Mammalia,Pongo pygmaeus,Bornean Orangutan
+Mammalia,Hylobates lar,Lar Gibbon
+Mammalia,Saimiri sciureus,Common Squirrel Monkey
+Mammalia,Cebus capucinus,White-faced Capuchin
+Mammalia,Tarsius syrichta,Philippine Tarsier
+Mammalia,Saguinus oedipus,Cotton-top Tamarin
+Mammalia,Callithrix jacchus,Common Marmoset
+Mammalia,Lemur catta,Ring-tailed Lemur
+Mammalia,Eulemur fulvus,Brown Lemur
+Mammalia,Otolemur garnettii,Small-eared Galago
+Mammalia,Galeopterus variegatus,Sunda Flying Lemur
+Mammalia,Crocuta crocuta,Spotted Hyena
+Mammalia,Equus przewalskii,Przewalski's Horse
+Mammalia,Bos grunniens,Yak
+Mammalia,Bos indicus,Zebu
+Mammalia,Bubalus arnee,Wild Water Buffalo
+Mammalia,Tragelaphus strepsiceros,Greater Kudu
+Mammalia,Syncerus caffer,African Buffalo
+Mammalia,Diceros bicornis,Black Rhinoceros
+Mammalia,Ceratotherium simum,White Rhinoceros
+Mammalia,Tapirus bairdii,Baird's Tapir
+Mammalia,Viverra zibetha,Large Indian Civet
+Mammalia,Martes flavigula,Yellow-throated Marten
+Mammalia,Paradoxurus hermaphroditus,Common Palm Civet
+Mammalia,Leptailurus serval,Serval
+Mammalia,Caracal caracal,Caracal
+Mammalia,Herpestes ichneumon,Egyptian Mongoose
+Mammalia,Cynictis penicillata,Yellow Mongoose
+Mammalia,Echinops telfairi,Lesser Hedgehog Tenrec
+Mammalia,Potamochoerus porcus,Red River Hog
+Mammalia,Hystrix cristata,Crested Porcupine
+Mammalia,Sciurus vulgaris,Red Squirrel
+Mammalia,Lepus europaeus,European Hare
+Mammalia,Sus scrofa,Wild Boar
+Mammalia,Pan paniscus,Bonobo
+Mammalia,Acinonyx jubatus,Cheetah
+Mammalia,Arctocephalus pusillus,Cape Fur Seal
+Mammalia,Balaenoptera musculus,Blue Whale
+Mammalia,Bison bison,American Bison
+Mammalia,Callorhinus ursinus,Northern Fur Seal
+Mammalia,Cephalorhynchus commersonii,Commerson's Dolphin
+Mammalia,Delphinus delphis,Common Dolphin
+Mammalia,Eumetopias jubatus,Steller Sea Lion
+Mammalia,Hippopotamus amphibius,Hippopotamus
+Mammalia,Hydrurga leptonyx,Leopard Seal
+Mammalia,Kobus leche,Lechwe
+Mammalia,Mirounga angustirostris,Northern Elephant Seal
+Mammalia,Monachus monachus,Mediterranean Monk Seal
+Mammalia,Orcinus orca,Killer Whale
+Mammalia,Phoca vitulina,Harbor Seal
+Mammalia,Physeter macrocephalus,Sperm Whale
+Mammalia,Pontoporia blainvillei,La Plata Dolphin
+Mammalia,Stenella attenuata,Pantropical Spotted Dolphin
+Mammalia,Trichechus manatus,West Indian Manatee
+Mammalia,Zaedyus pichiy,Pichi Armadillo
+Mammalia,Ailuropoda melanoleuca,Giant Panda
+Mammalia,Antilocapra americana,Pronghorn
+Mammalia,Ateles geoffroyi,Geoffroy's Spider Monkey
+Mammalia,Balaenoptera acutorostrata,Minke Whale
+Mammalia,Bradypus variegatus,Brown-throated Sloth
+Mammalia,Camelopardalis camelopardalis,Giraffe
+Mammalia,Capybara hydrochaeris,Capybara
+Mammalia,Cercocebus agilis,Agile Mangabey
+Mammalia,Choeropsis liberiensis,Pygmy Hippopotamus
+Mammalia,Colobus guereza,Eastern Black-and-white Colobus
+Mammalia,Condylura cristata,Star-nosed Mole
+Mammalia,Cynomys ludovicianus,Black-tailed Prairie Dog
+Mammalia,Dasyprocta aguti,Agouti
+Mammalia,Didelphis virginiana,Virginia Opossum
+Mammalia,Dipodomys ordii,Ord's Kangaroo Rat
+Mammalia,Echinosorex gymnurus,Moonrat
+Mammalia,Elephas maximus,Asian Elephant
+Mammalia,Galago senegalensis,Lesser Galago
+Mammalia,Gazella thomsonii,Thomson's Gazelle
+Mammalia,Glaucomys volans,Southern Flying Squirrel
+Mammalia,Hippotragus equinus,Roan Antelope
+Mammalia,Hydrochoerus hydrochaeris,Capybara
+Mammalia,Indri indri,Indri
+Mammalia,Kangaroo giganteus,Red Kangaroo
+Mammalia,Kobus kob,Kob
+Mammalia,Lemur variegatus,Ruffed Lemur
+Mammalia,Lontra canadensis,North American River Otter
+Mammalia,Lycaon pictus,African Wild Dog
+Mammalia,Manis temminckii,Ground Pangolin
+Mammalia,Marmota monax,Woodchuck
+Mammalia,Megaptera novaeangliae,Humpback Whale
+Mammalia,Melursus ursinus,Sloth Bear
+Mammalia,Miopithecus talapoin,Talapoin
+Mammalia,Monotremata,Echidna
+Mammalia,Nasalis larvatus,Proboscis Monkey
+Mammalia,Nemorhaedus goral,Goral
+Mammalia,Nycticebus coucang,Slow Loris
+Mammalia,Okapia johnstoni,Okapi
+Mammalia,Oryx gazella,Gemsbok
+Mammalia,Osbornictis piscivora,Congo Water Civet
+Mammalia,Ototemys irroratus,Marsh Rat
+Mammalia,Ovis canadensis,Bighorn Sheep
+Mammalia,Papio anubis,Olive Baboon
+Mammalia,Phacochoerus africanus,Common Warthog
+Mammalia,Phascolarctos cinereus,Koala
+Mammalia,Platanista gangetica,Ganges River Dolphin
+Mammalia,Poecilogale albinucha,African Striped Weasel
+Mammalia,Potamogale velox,Giant Otter Shrew
+Mammalia,Pseudoryx ngelatienesis,Saola
+Mammalia,Rhynchocyon chrysopus,Golden-rumped Elephant Shrew
+Mammalia,Saiga tatarica,Saiga Antelope
+Mammalia,Suricata suricatta,Meerkat
+Mammalia,Tachyglossus aculeatus,Short-beaked Echidna
+Mammalia,Tarsius tarsier,Spectral Tarsier
+Mammalia,Thalarctos maritimus,Polar Bear
+Mammalia,Tragulus napu,Large Mouse-deer
+Mammalia,Ursus americanus,American Black Bear
+Mammalia,Vicugna vicugna,Vicuña
+Mammalia,Wallabia bicolor,Swamp Wallaby
+Mammalia,Xerus erythropus,Striped Ground Squirrel
+Mammalia,Zaglossus bruijni,Long-beaked Echidna
+Mammalia,Panthera uncia,Snow Leopard
+Mammalia,Panthera onca,Jaguar
+Mammalia,Vombatus ursinus,Common Wombat
+Mammalia,Sarcophilus harrisii,Tasmanian Devil
+Mammalia,Perameles gunnii,Eastern Barred Bandicoot
+Mammalia,Setonix brachyurus,Quokka
+Mammalia,Bison bonasus,European Bison
+Mammalia,Myrmecophaga tridactyla,Giant Anteater
+Mammalia,Priodontes maximus,Giant Armadillo
+Mammalia,Helarctos malayanus,Sun Bear
+Mammalia,Ailurus fulgens,Red Panda
+Mammalia,Gulo gulo,Wolverine
+Mammalia,Mustela erminea,Stoat
+Mammalia,Herpestes auropunctatus,Small Indian Mongoose
+Mammalia,Petaurus norfolcensis,Squirrel Glider
+Mammalia,Petaurus breviceps,Sugar Glider
+Mammalia,Octodon degus,Common Degu
+Mammalia,Cavia porcellus,Guinea Pig
+Mammalia,Marmota marmota,Alpine Marmot
+Mammalia,Talpa europaea,European Mole
+Mammalia,Helogale parvula,Common Dwarf Mongoose
+Mammalia,Vulpes zerda,Fennec Fox
+Mammalia,Chrysocyon brachyurus,Maned Wolf
+Mammalia,Ochotona princeps,American Pika
+Mammalia,Dipus sagitta,Northern Three-toed Jerboa
+Mammalia,Geomys bursarius,Plains Pocket Gopher
+Mammalia,Mustela nivalis,Least Weasel
+Mammalia,Neovison vison,American Mink
+Mammalia,Odobenus rosmarus,Walrus
+Mammalia,Delphinapterus leucas,Beluga Whale
+Mammalia,Monodon monoceros,Narwhal
+Mammalia,Balaenoptera physalus,Fin Whale
+Mammalia,Halichoerus grypus,Gray Seal
+Mammalia,Bos gaurus,Gaur
+Mammalia,Hydropotes inermis,Water Deer
+Mammalia,Cervus nippon,Sika Deer
+Mammalia,Mazama americana,Red Brocket Deer
+Mammalia,Aepyceros melampus,Impala
+Mammalia,Antidorcas marsupialis,Springbok
+Mammalia,Tragelaphus angasii,Nyala
+Mammalia,Tragelaphus eurycerus,Bongo
+Mammalia,Cercopithecus aethiops,Vervet Monkey
+Mammalia,Papio hamadryas,Barbary Baboon
+Mammalia,Colobus polykomos,Western Red Colobus
+Mammalia,Presbytis cristata,Tufted Leaf Monkey
+Mammalia,Nomascus leucogenys,White-cheeked Gibbon
+Mammalia,Cheirogaleus medius,Fat-tailed Dwarf Lemur
+Mammalia,Lepilemur rufescens,Red-bellied Lemur
+Mammalia,Hapalemur griseus,Eastern Lesser Bamboo Lemur
+Mammalia,Nycticebus pygmaeus,Pygmy Slow Loris
+Mammalia,Microcebus murinus,Gray Mouse Lemur
+Mammalia,Perognathus flavus,Plains Pocket Mouse
+Mammalia,Reithrodontomys megalotis,Western Harvest Mouse
+Mammalia,Onychomys leucogaster,Northern Grasshopper Mouse
+Mammalia,Peromyscus polionotus,Oldfield Mouse
+Mammalia,Spermophilus tridecemlineatus,Thirteen-lined Ground Squirrel
+Mammalia,Myocastor coypus,Nutria
+Mammalia,Lepus californicus,Black-tailed Jackrabbit
+Mammalia,Equus hemionus,Onager
+Mammalia,Pantholops hodgsonii,Tibetan Antelope
+Aves,Gallus gallus domesticus,Chicken
+Aves,Anas platyrhynchos,Mallard
+Aves,Columba livia,Rock Pigeon
+Aves,Passer domesticus,House Sparrow
+Aves,Cygnus olor,Mute Swan
+Aves,Struthio camelus,Ostrich
+Aves,Pavo cristatus,Indian Peafowl
+Aves,Corvus corax,Common Raven
+Aves,Aquila chrysaetos,Golden Eagle
+Aves,Bubo bubo,Eurasian Eagle-Owl
+Aves,Falco peregrinus,Peregrine Falcon
+Aves,Spheniscus demersus,African Penguin
+Aves,Ara macao,Scarlet Macaw
+Aves,Anser anser,Greylag Goose
+Aves,Mergus merganser,Red-breasted Merganser
+Aves,Larus argentatus,Herring Gull
+Aves,Sterna hirundo,Common Tern
+Aves,Alcedo atthis,Common Kingfisher
+Aves,Cuculus canorus,Common Cuckoo
+Aves,Motacilla alba,White Wagtail
+Aves,Turdus merula,Common Blackbird
+Aves,Phoenicopterus roseus,Greater Flamingo
+Aves,Grus grus,Common Crane
+Aves,Otis tarda,Great Bustard
+Aves,Buteo buteo,Common Buzzard
+Aves,Accipiter gentilis,Northern Goshawk
+Aves,Strix aluco,Tawny Owl
+Aves,Upupa epops,Eurasian Hoopoe
+Aves,Coccothraustes coccothraustes,Hawfinch
+Aves,Pycnonotus barbatus,Red-vented Bulbul
+Aves,Sturnus vulgaris,Common Starling
+Aves,Fringilla coelebs,Chaffinch
+Aves,Parus major,Great Tit
+Aves,Carduelis carduelis,European Goldfinch
+Aves,Emberiza citrinella,Yellowhammer
+Aves,Prunella modularis,Dunnock
+Aves,Aegithalos caudatus,Long-tailed Tit
+Aves,Regulus regulus,Goldcrest
+Aves,Phylloscopus collybita,Common Chiffchaff
+Aves,Sylvia atricapilla,Eurasian Blackcap
+Aves,Acrocephalus scirpaceus,Reed Warbler
+Aves,Motacilla cinerea,Grey Wagtail
+Aves,Alauda arvensis,Skylark
+Aves,Loxia curvirostra,Red Crossbill
+Aves,Fratercula arctica,Atlantic Puffin
+Aves,Somateria mollissima,Common Eider
+Aves,Mergus serrator,Red-throated Merganser
+Aves,Egretta garzetta,Little Egret
+Aves,Ardea cinerea,Grey Heron
+Aves,Botaurus stellaris,Eurasian Bittern
+Aves,Nycticorax nycticorax,Black-crowned Night Heron
+Aves,Phoenicoparrus andinus,Andean Flamingo
+Aves,Caracara plancus,Southern Caracara
+Aves,Circus cyaneus,Northern Harrier
+Aves,Buteo jamaicensis,Red-tailed Hawk
+Aves,Falco columbarius,Merlin
+Aves,Pernis apivorus,European Honey Buzzard
+Aves,Gavia stellata,Red-throated Diver
+Aves,Morus bassanus,Northern Gannet
+Aves,Podiceps cristatus,Great Crested Grebe
+Aves,Tadorna tadorna,Common Shelduck
+Aves,Anser albifrons,Greater White-fronted Goose
+Aves,Chroicocephalus ridibundus,Black-headed Gull
+Aves,Larus marinus,Great Black-backed Gull
+Aves,Rissa tridactyla,Black-legged Kittiwake
+Aves,Sula nebouxii,Blue-footed Booby
+Aves,Fregata magnificens,Magnificent Frigatebird
+Aves,Phoebastria nigripes,Black-footed Albatross
+Aves,Diomedea exulans,Wandering Albatross
+Aves,Puffinus puffinus,Manx Shearwater
+Aves,Procellaria aequinoctialis,White-chinned Petrel
+Aves,Phaethon aethereus,Red-billed Tropicbird
+Aves,Oceanodroma leucorhoa,Leach's Storm-Petrel
+Aves,Sterna dougallii,Roseate Tern
+Aves,Thalasseus maximus,Royal Tern
+Aves,Sternula antillarum,Least Tern
+Aves,Aythya fuligula,Tufted Duck
+Aves,Netta rufina,Red-crested Pochard
+Aves,Anas acuta,Northern Pintail
+Aves,Aix sponsa,Wood Duck
+Aves,Dendrocygna viduata,White-faced Whistling Duck
+Aves,Oxyura jamaicensis,Ruddy Duck
+Aves,Ardea herodias,Great Blue Heron
+Aves,Eudocimus albus,American White Ibis
+Aves,Ciconia ciconia,White Stork
+Aves,Himantopus himantopus,Black-winged Stilt
+Aves,Jacana jacana,Northern Jacana
+Aves,Recurvirostra avosetta,Pied Avocet
+Aves,Chlidonias niger,Black Tern
+Aves,Chlidonias hybrida,White-winged Tern
+Aves,Sterna paradisaea,Arctic Tern
+Aves,Platalea leucorodia,Eurasian Spoonbill
+Aves,Bubulcus ibis,Cattle Egret
+Aves,Egretta thula,Bare-throated Tiger Heron
+Aves,Nyctanassa violacea,Yellow-crowned Night Heron
+Aves,Butorides virescens,Green Heron
+Aves,Himantopus mexicanus,Black-necked Stilt
+Aves,Gallinago gallinago,Common Snipe
+Aves,Actitis hypoleucos,Common Sandpiper
+Aves,Melopsittacus undulatus,Budgerigar
+Aves,Nymphicus hollandicus,Cockatiel
+Aves,Agapornis roseicollis,Peach-faced Lovebird
+Aves,Amazona aestiva,Blue-fronted Amazon
+Aves,Ara ararauna,Blue-and-yellow Macaw
+Aves,Cacatua galerita,Sulphur-crested Cockatoo
+Aves,Poicephalus senegalus,Senegal Parrot
+Aves,Psittacus erithacus,African Grey Parrot
+Aves,Tauraco persa,Guinea Turaco
+Aves,Corythaeola cristata,Go-away-bird
+Aves,Musophaga violacea,Violet Turaco
+Aves,Opisthocomus hoazin,Hoatzin
+Aves,Galliformes,Various Chicken Breeds
+Aves,Numida meleagris,Helmeted Guineafowl
+Aves,Meleagris gallopavo,Wild Turkey
+Aves,Coturnix coturnix,Common Quail
+Aves,Perdix perdix,Grey Partridge
+Aves,Alectoris rufa,Red-legged Partridge
+Aves,Phasianus colchicus,Common Pheasant
+Aves,Syrmaticus reevesii,Reeves's Pheasant
+Aves,Chrysolophus pictus,Golden Pheasant
+Aves,Chrysolophus amherstiae,Lady Amherst's Pheasant
+Aves,Pavo muticus,Green Peafowl
+Aves,Lophura nycthemera,Silver Pheasant
+Aves,Tragopan satyra,Satyr Tragopan
+Aves,Tetrao urogallus,Western Capercaillie
+Aves,Lagopus lagopus,Willow Ptarmigan
+Aves,Lagopus muta,Rock Ptarmigan
+Aves,Bonasa bonasia,Hazel Grouse
+Aves,Tetrastes bonasia,Hazel Grouse
+Aves,Centrocercus urophasianus,Greater Sage-Grouse
+Aves,Tympanuchus cupido,Heath Hen
+Aves,Tympanuchus phasianellus,Sharp-tailed Grouse
+Aves,Colinus virginianus,Northern Bobwhite
+Aves,Odontophorus gujanensis,Marbled Wood-Quail
+Aves,Rhynchortyx cinctus,Barred Forest-Quail
+Aves,Eudromia elegans,Elegant Crested Tinamou
+Aves,Nothoprocta ornata,Ornate Tinamou
+Aves,Crypturellus tataupa,Tataupa Tinamou
+Aves,Tinamus major,Great Tinamou
+Aves,Rhea americana,Greater Rhea
+Aves,Rhea pennata,Lesser Rhea
+Aves,Dromaius novaehollandiae,Emu
+Aves,Casuarius casuarius,Southern Cassowary
+Aves,Casuarius unappendiculatus,Northern Cassowary
+Aves,Casuarius bennetti,Dwarf Cassowary
+Aves,Apteryx mantelli,North Island Brown Kiwi
+Aves,Apteryx owenii,Little Spotted Kiwi
+Aves,Apteryx australis,Southern Brown Kiwi
+Aves,Apteryx haastii,Great Spotted Kiwi
+Aves,Struthio molybdophanes,Somali Ostrich
+Aves,Pterocnemia pennata,Darwin's Rhea
+Aves,Aepyornis maximus,Elephant Bird
+Aves,Dinornis robustus,Giant Moa
+Aves,Gastornis parisiensis,Gastornis
+Aves,Kelenken guillermoi,Kelenken
+Aves,Phorusrhacos longissimus,Phorusrhacos
+Aves,Titanis walleri,Titanis
+Aves,Andalgalornis steulleti,Andalgalornis
+Aves,Argentavis magnificens,Argentavis
+Aves,Brontornis burmeisteri,Brontornis
+Aves,Diatryma gigantea,Diatryma
+Aves,Lithornis plebius,Lithornis
+Aves,Pelagornis chilensis,Pelagornis
+Aves,Teratornis merriami,Teratornis
+Aves,Vorombe titan,Vorombe
+Aves,Anhinga anhinga,Anhinga
+Aves,Phalacrocorax carbo,Great Cormorant
+Aves,Phalacrocorax auritus,Double-crested Cormorant
+Aves,Sula sula,Red-footed Booby
+Aves,Fregata minor,Great Frigatebird
+Aves,Gavia immer,Common Loon
+Aves,Gavia adamsii,Yellow-billed Loon
+Aves,Podiceps nigricollis,Eared Grebe
+Aves,Podiceps grisegena,Red-necked Grebe
+Aves,Podilymbus podiceps,Pied-billed Grebe
+Aves,Tachybaptus ruficollis,Little Grebe
+Aves,Spheniscus mendiculus,Galápagos Penguin
+Aves,Spheniscus humboldti,Humboldt Penguin
+Aves,Spheniscus magellanicus,Magellanic Penguin
+Aves,Eudyptula minor,Little Penguin
+Aves,Megadyptes antipodes,Yellow-eyed Penguin
+Aves,Eudyptes chrysocome,Rockhopper Penguin
+Aves,Eudyptes pachyrhynchus,Fiordland Crested Penguin
+Aves,Eudyptes robustus,Snares Penguin
+Aves,Aptenodytes forsteri,Emperor Penguin
+Aves,Aptenodytes patagonicus,King Penguin
+Aves,Pygoscelis adeliae,Adélie Penguin
+Aves,Pygoscelis antarctica,Chinstrap Penguin
+Aves,Pygoscelis papua,Gentoo Penguin
+Aves,Cerorhinca monocerata,Rhinoceros Auklet
+Aves,Synthliboramphus antiquus,Ancient Murrelet
+Aves,Ptychoramphus aleuticus,Cassin's Auklet
+Aves,Aethia pusilla,Least Auklet
+Aves,Cyclorrhynchus psittacula,Parakeet Auklet
+Aves,Brachyramphus marmoratus,Marbled Murrelet
+Aves,Cepphus grylle,Black Guillemot
+Aves,Uria aalge,Common Murre
+Aves,Uria lomvia,Thick-billed Murre
+Aves,Archilochus colubris,Ruby-throated Hummingbird
+Aves,Calypte anna,Anna's Hummingbird
+Aves,Calypte costae,Costa's Hummingbird
+Aves,Selasphorus rufus,Rufous Hummingbird
+Aves,Colibri coruscans,Sparkling Violetear
+Aves,Ptilonorhynchus violaceus,Satin Bowerbird
+Aves,Cardinalis cardinalis,Northern Cardinal
+Aves,Turdus migratorius,American Robin
+Aves,Sitta carolinensis,White-breasted Nuthatch
+Aves,Poecile atricapillus,Black-capped Chickadee
+Aves,Junco hyemalis,Dark-eyed Junco
+Aves,Emberiza schoeniclus,Reed Bunting
+Aves,Regulus ignicapilla,Firecrest
+Aves,Cinnyris jugularis,Olive-backed Sunbird
+Aves,Corvus brachyrhynchos,American Crow
+Aves,Aphelocoma californica,Western Scrub-Jay
+Aves,Quiscalus quiscula,Common Grackle
+Aves,Icterus galbula,Baltimore Oriole
+Aves,Melanerpes carolinus,Red-bellied Woodpecker
+Aves,Picoides pubescens,Downy Woodpecker
+Aves,Dryocopus pileatus,Pileated Woodpecker
+Aves,Colaptes auratus,Northern Flicker
+Aves,Sitta europaea,Eurasian Nuthatch
+Aves,Fringilla montifringilla,Brambling
+Aves,Emberiza melanocephala,Black-headed Bunting
+Aves,Saxicola rubetra,Whinchat
+Aves,Oenanthe oenanthe,Northern Wheatear
+Aves,Certhia familiaris,Treecreeper
+Aves,Cyanistes caeruleus,Blue Tit
+Aves,Poecile gambeli,Mountain Chickadee
+Aves,Chloris chloris,European Greenfinch
+Aves,Acanthis flammea,Common Redpoll
+Aves,Calcarius lapponicus,Lapland Longspur
+Aves,Zonotrichia leucophrys,White-crowned Sparrow
+Aves,Ammodramus savannarum,Grasshopper Sparrow
+Aves,Passerina cyanea,Blue Grosbeak
+Aves,Sporophila torqueola,White-collared Seedeater
+Aves,Thraupis episcopus,Blue-gray Tanager
+Aves,Saltator atricollis,Buff-throated Saltator
+Aves,Mimus polyglottos,Northern Mockingbird
+Aves,Toxostoma curvirostre,Curve-billed Thrasher
+Aves,Icterus spurius,Orchard Oriole
+Aves,Lanius excubitor,Great Grey Shrike
+Aves,Sturnella magna,Eastern Meadowlark
+Aves,Geococcyx californianus,Greater Roadrunner
+Aves,Cuculus micropterus,Himalayan Cuckoo
+Aves,Bubo scandiacus,Snowy Owl
+Aves,Asio flammeus,Short-eared Owl
+Aves,Tyto alba,Barn Owl
+Aves,Pandion haliaetus,Osprey
+Aves,Haliaeetus leucocephalus,Bald Eagle
+Aves,Circus melanoleucos,Pied Harrier
+Aves,Pernis ptilorhynchus,Oriental Honey-buzzard
+Aves,Falco rusticolus,Gyrfalcon
+Aves,Microhierax melanoleucos,Black-winged Pygmy Falcon
+Aves,Accipiter cooperii,Cooper's Hawk
+Aves,Buteo platypterus,Broad-winged Hawk
+Aves,Aquila heliaca,Eastern Imperial Eagle
+Aves,Aethia cristatella,Crested Auklet
+Aves,Bucephala clangula,Common Goldeneye
+Reptilia,Crocodylus niloticus,Nile Crocodile
+Reptilia,Alligator mississippiensis,American Alligator
+Reptilia,Chelonia mydas,Green Sea Turtle
+Reptilia,Dermochelys coriacea,Leatherback Sea Turtle
+Reptilia,Varanus komodoensis,Komodo Dragon
+Reptilia,Python regius,Ball Python
+Reptilia,Python bivittatus,Burmese Python
+Reptilia,Iguana iguana,Green Iguana
+Reptilia,Naja naja,Indian Cobra
+Reptilia,Daboia russelii,Russell's Viper
+Reptilia,Crotalus adamanteus,Eastern Diamondback Rattlesnake
+Reptilia,Crotalus atrox,Western Diamondback Rattlesnake
+Reptilia,Bothrops asper,Fer-de-Lance
+Reptilia,Eryx colubrinus,Kenyan Sand Boa
+Reptilia,Boa constrictor,Boa Constrictor
+Reptilia,Eunectes murinus,Green Anaconda
+Reptilia,Bitis arietans,Puff Adder
+Reptilia,Chamaeleo calyptratus,Veiled Chameleon
+Reptilia,Pogona vitticeps,Central Bearded Dragon
+Reptilia,Uromastyx acanthinura,Spiny-tailed Lizard
+Reptilia,Sceloporus occidentalis,Western Fence Lizard
+Reptilia,Gekko gecko,Tokay Gecko
+Reptilia,Anolis carolinensis,Carolina Anole
+Reptilia,Eublepharis macularius,Leopard Gecko
+Reptilia,Sphaerodactylus macrolepis,Large-scaled Gecko
+Reptilia,Testudo hermanni,Hermann's Tortoise
+Reptilia,Testudo graeca,Greek Tortoise
+Reptilia,Geochelone sulcata,African Spurred Tortoise
+Reptilia,Trachemys scripta elegans,Red-eared Slider
+Reptilia,Graptemys geographica,Northern Map Turtle
+Reptilia,Chelydra serpentina,Common Snapping Turtle
+Reptilia,Macrochelys temminckii,Alligator Snapping Turtle
+Reptilia,Pelodiscus sinensis,Chinese Softshell Turtle
+Reptilia,Pseudemys concinna,River Cooter
+Reptilia,Kinosternon flavescens,Yellow Mud Turtle
+Reptilia,Thamnophis sirtalis,Common Garter Snake
+Reptilia,Nerodia sipedon,Northern Watersnake
+Reptilia,Lampropeltis getula,Common Kingsnake
+Reptilia,Coluber constrictor,Eastern Racer
+Reptilia,Opheodrys vernalis,Smooth Green Snake
+Reptilia,Storeria dekayi,Brown Snake
+Reptilia,Regina septemvittata,Common Water Snake
+Reptilia,Boiga dendrophila,Mangrove Snake
+Reptilia,Ophiophagus hannah,King Cobra
+Reptilia,Bungarus caeruleus,Common Krait
+Reptilia,Micrurus fulvius,Eastern Coral Snake
+Reptilia,Hydrophis cyanocinctus,Blue-banded Sea Snake
+Reptilia,Aipysurus laevis,Olive Sea Snake
+Reptilia,Laticauda colubrina,Banded Sea Krait
+Reptilia,Sphenodon punctatus,Tuatara
+Reptilia,Uta stansburiana,Side-blotched Lizard
+Reptilia,Scincus scincus,Sandfish Skink
+Reptilia,Tiliqua rugosa,Shingleback Lizard
+Reptilia,Lerista bougainvillii,Bougainville's Skink
+Reptilia,Emoia cyanura,Blue-tailed Skink
+Reptilia,Plestiodon fasciatus,Five-lined Skink
+Reptilia,Eumeces schneideri,Schneider's Skink
+Reptilia,Holbrookia maculata,Lesser Earless Lizard
+Reptilia,Phrynosoma platyrhinos,Desert Horned Lizard
+Reptilia,Sceloporus undulatus,Eastern Fence Lizard
+Reptilia,Anolis sagrei,Brown Anole
+Reptilia,Iguana delicatissima,Lesser Antillean Iguana
+Reptilia,Cyclura cornuta,Rhinoceros Iguana
+Reptilia,Ctenosaura similis,Black Spiny-Tailed Iguana
+Reptilia,Sauromalus obesus,Bluff Iguana
+Reptilia,Basiliscus plumifrons,Green Basilisk
+Reptilia,Corytophanes cristatus,Helmeted Iguana
+Reptilia,Leiocephalus carinatus,Cuban Rock Iguana
+Reptilia,Sphenomorphus maculatus,Spotted Skink
+Reptilia,Dipsas indica,Indian Snail-Eater
+Reptilia,Liophis miliaris,Many-scaled Snake
+Reptilia,Oxyrhopus petolarius,False Coral Snake
+Reptilia,Imantodes cenchoa,Jungle Cat Snake
+Reptilia,Tantilla relicta,Brown Centipede Snake
+Reptilia,Leptotyphlops dulcis,Slender Blind Snake
+Reptilia,Anomochilus weberi,Dwarf Pipe Snake
+Reptilia,Typhlops vermicularis,Worm Snake
+Reptilia,Coniophanes fissidens,Variable Ground Snake
+Reptilia,Erythrolamprus aesculapii,Aesculapian Snake
+Reptilia,Lytorhynchus diadema,Crowned Leaf-nosed Snake
+Reptilia,Psammophis schokari,Schokari Racer
+Reptilia,Platyceps collaris,Collared Snake
+Reptilia,Dolichophis jugularis,European Ratsnake
+Reptilia,Hierophis viridiflavus,Grass Snake
+Reptilia,Coronella austriaca,Smooth Snake
+Reptilia,Macroprotodon cucullatus,False Smooth Snake
+Reptilia,Oligodon cyclurus,Brown Kukri Snake
+Reptilia,Hypsiglena torquata,Nightsnake
+Reptilia,Sistrurus miliarius,Pygmy Rattlesnake
+Reptilia,Crotalus durissus,South American Rattlesnake
+Reptilia,Bothriechis schlegelii,Eyelash Viper
+Reptilia,Lachesis muta,Bushmaster
+Reptilia,Agkistrodon piscivorus,Cottonmouth
+Reptilia,Agkistrodon contortrix,Copperhead
+Reptilia,Vipera berus,Common European Adder
+Reptilia,Bitis gabonica,Gaboon Viper
+Reptilia,Pseudocordylus melanotus,Black-throated Zulu Lizard
+Reptilia,Agama agama,Red-headed Rock Agama
+Reptilia,Chlamydosaurus kingii,Frilled Lizard
+Reptilia,Liolaemus chiliensis,Chilean Tree Lizard
+Reptilia,Vipera ammodytes,Nose-horned Viper
+Reptilia,Vipera aspis,Asp Viper
+Reptilia,Vipera latastei,Lataste's Viper
+Reptilia,Vipera seoanei,Seoane's Viper
+Reptilia,Xantusia vigilis,Desert Night Lizard
+Reptilia,Xenosaurus grandis,Knob-scaled Lizard
+Reptilia,Zonosaurus quadrilineatus,Four-lined Plated Lizard
+Reptilia,Acanthurus capra,Mountain Horned Dragon
+Reptilia,Acanthurus dumerilii,Dumeril's Monitor
+Reptilia,Acontias plumbeus,Legless Skink
+Reptilia,Adranosaurus brachyurus,Short-tailed Monitor
+Reptilia,Afroedura pondolia,Pondoland Gecko
+Reptilia,Agama persica,Persian Agama
+Reptilia,Alsophis vudii,Cuban Racer
+Reptilia,Amphibolurus muricatus,Jacky Lizard
+Reptilia,Anarbynchus frontalis,Frontal Shieldtail
+Reptilia,Anguis fragilis,Slow Worm
+Reptilia,Antaresia maculosus,Spotted Python
+Reptilia,Aparallactus capensis,Cape Centipede Eater
+Reptilia,Aspidoscelis tigris,Tiger Whiptail
+Reptilia,Atheris nitschei,Nitsche's Bush Viper
+Reptilia,Atretium schistosum,Olive Keelback
+Reptilia,Bachia bresslaui,Bresslau's Worm Lizard
+Reptilia,Bavayia madjo,New Caledonian Gecko
+Reptilia,Blanus cinereus,Iberian Worm Lizard
+Reptilia,Bolyeria multicarinata,Round Island Boa
+Reptilia,Brachylophus fasciatus,Fiji Banded Iguana
+Reptilia,Brookesia minima,Dwarf Chameleon
+Reptilia,Caiman crocodilus,Spectacled Caiman
+Reptilia,Calotes calotes,Common Garden Lizard
+Reptilia,Caretta caretta,Loggerhead Sea Turtle
+Reptilia,Casarea dussumieri,Keel-scaled Boa
+Reptilia,Ceratophora stoddartii,Stoddart's Rhino Horn Lizard
+Reptilia,Chalcides chalcides,Three-toed Skink
+Reptilia,Chelodina longicollis,Eastern Long-necked Turtle
+Reptilia,Chersina angulata,Angulated Tortoise
+Reptilia,Coleonyx variegatus,Banded Gecko
+Reptilia,Corallus caninus,Emerald Tree Boa
+Reptilia,Cordylus cataphractus,Armadillo Girdled Lizard
+Reptilia,Crocodylus johnsoni,Freshwater Crocodile
+Reptilia,Crocodylus moreletii,Morelet's Crocodile
+Reptilia,Crocodylus palustris,Mugger Crocodile
+Reptilia,Crocodylus porosus,Saltwater Crocodile
+Reptilia,Cryptoblepharus boutonii,Snake-eyed Skink
+Reptilia,Cuora amboinensis,Amboina Box Turtle
+Reptilia,Cyclodina aenea,Bronze Skink
+Reptilia,Cyrtodactylus kotschyi,Kotschy's Gecko
+Reptilia,Darevskia caucasica,Caucasian Rock Lizard
+Reptilia,Dasypeltis scabra,Egg-eating Snake
+Reptilia,Dendrelaphis pictus,Painted Bronzeback
+Reptilia,Dipsosaurus dorsalis,Desert Iguana
+Reptilia,Draco volans,Flying Dragon
+Reptilia,Drymarchon couperi,Eastern Indigo Snake
+Reptilia,Echis carinatus,Saw-scaled Viper
+Reptilia,Elaphe guttata,Corn Snake
+Reptilia,Emydura macquarii,Murray River Turtle
+Reptilia,Epacrisia cretensis,Cretan Wall Lizard
+Reptilia,Eremias arguta,Sand Racer
+Reptilia,Eryx jayakari,Arabian Sand Boa
+Reptilia,Furcifer pardalis,Panther Chameleon
+Reptilia,Gavialis gangeticus,Gharial
+Reptilia,Gecko vittatus,White-lined Gecko
+Reptilia,Gerrhosaurus flavigularis,Yellow-throated Plated Lizard
+Reptilia,Glyptemys insculpta,Wood Turtle
+Reptilia,Gonocephalus chamaeleontinus,Chameleon Forest Dragon
+Reptilia,Gymnophthalmus speciosus,Spectacled Tegu
+Reptilia,Hemidactylus frenatus,Common House Gecko
+Reptilia,Heterodon platirhinos,Eastern Hognose Snake
+Reptilia,Holbrookia elegans,Elegant Earless Lizard
+Reptilia,Hydromedusa tectifera,South American Snake-necked Turtle
+Reptilia,Hypsilurus dilophus,Crested Forest Dragon
+Reptilia,Indotestudo forstenii,Sulawesi Tortoise
+Reptilia,Kachuga kachuga,Brown Roof Turtle
+Reptilia,Lacerta agilis,Sand Lizard
+Reptilia,Lanthanotus borneensis,Earless Monitor Lizard
+Reptilia,Lepidodactylus lugubris,Mourning Gecko
+Reptilia,Leucocephalus yuwonoi,Sulawesi Turtle
+Reptilia,Liasis amethistinus,Amethystine Python
+Reptilia,Lichanura trivirgata,Rosy Boa
+Reptilia,Lioheterodon modestus,Malagasy Giant Hognose Snake
+Reptilia,Lygodactylus williamsi,Electric Blue Gecko
+Reptilia,Malaclemys terrapin,Diamondback Terrapin
+Reptilia,Mastigodryas melanolomus,Black-striped Whipsnake
+Reptilia,Melanochelys trijuga,Indian Black Turtle
+Reptilia,Microlophus peruvianus,Peruvian Iguana
+Reptilia,Morelia viridis,Green Tree Python
+Reptilia,Natrix natrix,Grass Snake
+Reptilia,Nephrurus levis levis,Smooth Knob-tailed Gecko
+Reptilia,Ophiodes striatus,Striped Snake-lizard
+Reptilia,Orlitia borneensis,Bornean River Turtle
+Reptilia,Palea stehlini,Stehlin's Terrapin
+Reptilia,Pelusios subniger,East African Black Mud Turtle
+Reptilia,Phrynosoma cornutum,Texas Horned Lizard
+Reptilia,Platemys platycephala,Twist-necked Turtle
+Reptilia,Podarcis muralis,Common Wall Lizard
+Reptilia,Proatheris superciliaris,High-scaled Bush Viper
+Reptilia,Psammophis subtaeniatus,Striped Sand Snake
+Reptilia,Pygopus lepidopodus,Australian Legless Lizard
+Reptilia,Rhacodactylus ciliatus,Eyelash Crested Gecko
+Reptilia,Rhinoclemmys pulcherrima,Central American Wood Turtle
+Reptilia,Ristella beddomii,Beddome's Skink
+Reptilia,Saara hardwickii,Indian Spiny-tailed Lizard
+Reptilia,Salvator merianae,Tegu
+Reptilia,Sanzinia madagascariensis,Madagascar Ground Boa
+Reptilia,Sceloporus grammicus,Tree Lizard
+Reptilia,Scincus scincoides,Australian Sand Swimmer
+Reptilia,Scolecophis braminus,Flowerpot Snake
+Reptilia,Sistrurus catenatus,Massasauga
+Reptilia,Sphenomorphus fragilis,Fragile Skink
+Reptilia,Stenocercus iridescens,Rainbow Lizard
+Reptilia,Sternotherus odoratus,Stinkpot
+Reptilia,Strophurus ciliaris,Eastern Spiny-tailed Gecko
+Reptilia,Takydromus sexlineatus,Six-lined Racerunner
+Reptilia,Terrapene carolina,Eastern Box Turtle
+Reptilia,Thamnophis elegans,Western Terrestrial Garter Snake
+Reptilia,Thamnophis marcianus,Checkered Garter Snake
+Reptilia,Tiliqua scincoides,Blue-tongued Skink
+Reptilia,Trachylepis quoyi,Golden Skink
+Reptilia,Tribolonotus gracilis,Red-eyed Crocodile Skink
+Reptilia,Tropidolaemus wagleri,Wagler's Viper
+Reptilia,Tropidurus torquatus,Tropidurus Lizard
+Reptilia,Tupinambis teguixin,Black Tegu
+Reptilia,Uromastyx ornata,Ornate Spiny-tailed Lizard
+Reptilia,Amphisbaena alba,White Worm Lizard
+Reptilia,Anolis equestris,Knight Anole
+Reptilia,Acanthophis antarcticus,Death Adder
+Reptilia,Aristelliger praesignis,Jamaican Croaking Gecko
+Reptilia,Calumma parsonii,Parson's Chameleon
+Reptilia,Chalarodon madagascariensis,Malagasy Ground Agama
+Reptilia,Chilabothrus angulifer,Cuban Boa
+Reptilia,Conolophus subcristatus,Galapagos Land Iguana
+Reptilia,Ctenophorus decresii,Tawny Dragon
+Reptilia,Dibamus novaeguineae,Blind Lizard
+Reptilia,Elgaria multicarinata,Southern Alligator Lizard
+Reptilia,Enyalius catenatus,Chain-marked Lizard
+Reptilia,Gonatodes albogularis,Yellow-headed Gecko
+Reptilia,Hemidactylus turcicus,Mediterranean Gecko
+Reptilia,Hypnale hypnale,Hump-nosed Viper
+Reptilia,Lacerta agilis,Sand Lizard
+Reptilia,Lialis burtonis,Burton's Legless Lizard
+Reptilia,Masticophis flagellum,Eastern Coachwhip
+Reptilia,Micrelaps muelleri,Muller’s Two-headed Snake
+Reptilia,Natriciteres olivacea,Olive Marsh Snake
+Reptilia,Philodryas olfersii,Brazilian Green Racer
+Reptilia,Psammophylax rhombeatus,Rhombeatus Sand Snake
+Reptilia,Sceloporus graciosus,Sagebrush Lizard
+Reptilia,Shinisaurus crocodilurus,Chinese Crocodile Lizard
+Reptilia,Stenodactylus petrii,Leopard Gecko
+Reptilia,Tropidurus torquatus,Collared Tree Lizard
+Reptilia,Uroplatus phantasticus,Satanic Leaf-tailed Gecko
+Reptilia,Varanus salvator,Water Monitor
+Reptilia,Varanus albigularis,White-throated Monitor
+Reptilia,Xenodon pulcher,Beautiful Xenodon
+Reptilia,Zophosaurus robustus,Robust Burrowing Skink
+Pisces,Abramis brama,Common Bream
+Pisces,Acanthopagrus latus,Japanese Bream
+Pisces,Acipenser baerii,Siberian Sturgeon
+Pisces,Acipenser gueldenstaedtii,Russian Sturgeon
+Pisces,Acipenser ruthenus,Sterlet
+Pisces,Acipenser transmontanus,White Sturgeon
+Pisces,Aequidens rivulatus,Green Terror
+Pisces,Alosa alosa,Allis Shad
+Pisces,Alosa fallax,Twaite Shad
+Pisces,Ambassis dussumieri,Malabar Glassfish
+Pisces,Amphiprion ocellaris,Ocellaris Clownfish
+Pisces,Anchoa mitchilli,Bay Anchovy
+Pisces,Anostomus anostomus,Anostomus
+Pisces,Apogon lineatus,Striped Cardinalfish
+Pisces,Arapaima gigas,Arapaima
+Pisces,Argentina silus,Greater Argentine
+Pisces,Arius felis,Hardhead Catfish
+Pisces,Atherina boyeri,Sand Smelt
+Pisces,Aulonocara baenschi,Red Empress
+Pisces,Bagre marinus,Gafftopsail Catfish
+Pisces,Balistes capriscus,Grey Triggerfish
+Pisces,Barbodes gonionotus,Java Barb
+Pisces,Barbus barbus,Barbel
+Pisces,Bathylagus antarcticus,Antarctic Silverfish
+Pisces,Belone belone,Garfish
+Pisces,Betta splendens,Siamese Fighting Fish
+Pisces,Blicca bjoerkna,Silver Bream
+Pisces,Boraras brigittae,Mosquito Rasbora
+Pisces,Brachydanio rerio,Zebrafish
+Pisces,Brycon orbignyanus,Sabalo
+Pisces,Caecobarbus geertsii,Congo Blind Barb
+Pisces,Callorhinchus milii,Australian Ghostshark
+Pisces,Capros aper,Boarfish
+Pisces,Carassius carassius,Crucian Carp
+Pisces,Centrolabrus exoletus,Rock Cook
+Pisces,Cephalopholis argus,Peacock Hind
+Pisces,Channa argus,Northern Snakehead
+Pisces,Chanos chanos,Milkfish
+Pisces,Cheilinus undulatus,Humphead Wrasse
+Pisces,Chiloscylus colias,Redbanded Rockfish
+Pisces,Chromis chromis,Damselfish
+Pisces,Cichla temensis,Peacock Bass
+Pisces,Citharichthys sordidus,Pacific Sanddab
+Pisces,Clarias gariepinus,African Sharptooth Catfish
+Pisces,Coryphaena hippurus,Dorado
+Pisces,Corydoras aeneus,Bronze Corydoras
+Pisces,Cottus gobio,Bullhead
+Pisces,Ctenolabrus rupestris,Goldsinny Wrasse
+Pisces,Cyclopterus lumpus,Lumpfish
+Pisces,Danio rerio,Zebrafish
+Pisces,Dasyatis pastinaca,Common Stingray
+Pisces,Dentex dentex,Common Dentex
+Pisces,Diplodus sargus,White Seabream
+Pisces,Echeneis naucrates,Remora
+Pisces,Echinorhinus brucus,Bramble Shark
+Pisces,Elops saurus,Ladyfish
+Pisces,Epinephelus marginatus,Dusky Grouper
+Pisces,Eptatretus stoutii,Pacific Hagfish
+Pisces,Etmopterus princeps,Great Lanternshark
+Pisces,Eudontomyzon danfordi,Danube Lamprey
+Pisces,Euthynnus affinis,Kawakawa
+Pisces,Fistularia commersonii,Bluespotted Cornetfish
+Pisces,Fundulus heteroclitus,Mummichog
+Pisces,Gadus macrocephalus,Pacific Cod
+Pisces,Galeocerdo cuvier,Tiger Shark
+Pisces,Galeorhinus galeus,Tope Shark
+Pisces,Gambusia affinis,Mosquitofish
+Pisces,Gasterosteus aculeatus,Three-spined Stickleback
+Pisces,Glyptocephalus cynoglossus,Witch Flounder
+Pisces,Gymnotus carapo,Electric Eel
+Pisces,Helicolenus dactylopterus,Rockfish
+Pisces,Hemiramphus brasiliensis,Ballyhoo
+Pisces,Hexanchus griseus,Sixgill Shark
+Pisces,Hippocampus barbouri,Barbour's Seahorse
+Pisces,Holocentrus adscensionis,Squirrelfish
+Pisces,Hoplostethus atlanticus,Orange Roughy
+Pisces,Huso huso,Beluga Sturgeon
+Pisces,Hypoplectrus puella,Hamlet
+Pisces,Isurus oxyrinchus,Shortfin Mako
+Pisces,Kryptopterus bicirrhis,Glass Catfish
+Pisces,Labrus bergylta,Ballan Wrasse
+Pisces,Lamna nasus,Porbeagle Shark
+Pisces,Lepidopodus caudatus,Silver Scabbardfish
+Pisces,Lepomis macrochirus,Bluegill
+Pisces,Limanda limanda,Dab
+Pisces,Loricaria lentiginosa,Whiptail Catfish
+Pisces,Macrourus berglax,Roughhead Grenadier
+Pisces,Mallotus villosus,Capelin
+Pisces,Megalops atlanticus,Tarpon
+Pisces,Melanogrammus aeglefinus,Haddock
+Pisces,Menticirrhus americanus,Southern Kingfish
+Pisces,Microgadus tomcod,Atlantic Tomcod
+Pisces,Microstomus kitt,Lemon Sole
+Pisces,Mola mola,Ocean Sunfish
+Pisces,Mora moro,Mora
+Pisces,Mormyrus rume,Elephantfish
+Pisces,Mustelus asterias,Starry Smooth-hound
+Pisces,Myoxocephalus scorpius,Shorthorn Sculpin
+Pisces,Nematobrachion boopis,Bentheuphausia amblyops
+Pisces,Neoceratodus forsteri,Australian Lungfish
+Pisces,Odontaspis ferox,Ragged-tooth Shark
+Pisces,Ophiocephalus striatus,Striped Snakehead
+Pisces,Oryzias latipes,Medaka
+Pisces,Osmerus mordax,Rainbow Smelt
+Pisces,Perca fluviatilis,European Perch
+Pisces,Perca flavescens,Yellow Perch
+Pisces,Petromyzon marinus,Sea Lamprey
+Pisces,Phoxinus phoxinus,Minnow
+Pisces,Platichthys flesus,Flounder
+Pisces,Poecilia reticulata,Guppy
+Pisces,Pollachius pollachius,Pollock
+Pisces,Polyodon spathula,American Paddlefish
+Pisces,Pomacentrus coelestis,Neon Damsel
+Pisces,Psetta maxima,Turbot
+Pisces,Pterois volitans,Lionfish
+Pisces,Raja clavata,Thornback Ray
+Pisces,Ranzania laevis,Slender Sunfish
+Pisces,Rasbora heteromorpha,Harlequin Rasbora
+Pisces,Rhincodon typus,Whale Shark
+Pisces,Salvelinus fontinalis,Brook Trout
+Pisces,Salvelinus alpinus,Arctic Char
+Pisces,Sardina pilchardus,European Pilchard
+Pisces,Sardinops sagax,Pacific Sardine
+Pisces,Scarus ghobban,Bluebarred Parrotfish
+Pisces,Scyliorhinus canicula,Lesser Spotted Dogfish
+Pisces,Siganus fuscescens,Mottled Rabbitfish
+Pisces,Solea senegalensis,Senegalese Sole
+Pisces,Sphyrna zygaena,Smooth Hammerhead
+Pisces,Squatina squatina,Angel Shark
+Pisces,Stizostedion vitreum,Walleye
+Pisces,Symbolophorus barnardi,Lanternfish
+Pisces,Synodus saurus,Lizardfish
+Pisces,Tautoga onitis,Tautog
+Pisces,Tetraodon nigroviridis,Green Pufferfish
+Pisces,Thalassoma bifasciatum,Bluehead Wrasse
+Pisces,Thunnus maccoyii,Southern Bluefin Tuna
+Pisces,Tinca tinca,Tench
+Pisces,Torpedo marmorata,Marbled Electric Ray
+Pisces,Trichiurus lepturus,Largehead Hairtail
+Pisces,Umbrina cirrosa,Shi Drum
+Pisces,Xiphias gladius,Swordfish
+Pisces,Zenopsis nebulosa,John Dory
+Amphibia,Rana temporaria,Common Frog
+Amphibia,Rana catesbeiana,American Bullfrog
+Amphibia,Bufo bufo,Common Toad
+Amphibia,Bufo marinus,Cane Toad
+Amphibia,Hyla cinerea,American Green Tree Frog
+Amphibia,Hyla arborea,European Tree Frog
+Amphibia,Litoria caerulea,Australian Green Tree Frog
+Amphibia,Dendrobates tinctorius,Dyeing Poison Dart Frog
+Amphibia,Oophaga pumilio,Strawberry Poison Dart Frog
+Amphibia,Mantella aurantiaca,Golden Mantella
+Amphibia,Ambystoma mexicanum,Axolotl
+Amphibia,Ambystoma tigrinum,Tiger Salamander
+Amphibia,Salamandra salamandra,Fire Salamander
+Amphibia,Triturus cristatus,Great Crested Newt
+Amphibia,Notophthalmus viridescens,Eastern Newt
+Amphibia,Pleurodeles waltl,Iberian Ribbed Newt
+Amphibia,Bombina orientalis,Oriental Fire-bellied Toad
+Amphibia,Bombina variegata,Yellow-bellied Toad
+Amphibia,Leptobrachium asterias,Malaysian Horned Frog
+Amphibia,Rhacophorus arboreus,Wallace's Flying Frog
+Amphibia,Rhacophorus dennysi,Dennys' Tree Frog
+Amphibia,Polypedates leucomystax,Common Tree Frog
+Amphibia,Fejervarya limnocharis,Asian Grass Frog
+Amphibia,Microhyla ornata,Ornate Narrow-mouthed Frog
+Amphibia,Kaloula pulchra,Asian Painted Frog
+Amphibia,Xenopus laevis,African Clawed Frog
+Amphibia,Ceratophrys ornata,Horned Frog
+Amphibia,Osteopilus septentrionalis,Cuban Tree Frog
+Amphibia,Eleutherodactylus coqui,Coqui Frog
+Amphibia,Ecnomiohyla rabborum,Rabbs' Treefrog
+Amphibia,Hypsiboas punctatus,Spotted Tree Frog
+Amphibia,Boana faber,Tadpole Frog
+Amphibia,Duttaphrynus melanostictus,Asian Common Toad
+Amphibia,Amietophrynus regularis,African Common Toad
+Amphibia,Incilius coccifer,Caribbean Toad
+Amphibia,Pseudacris crucifer,Spring Peeper
+Amphibia,Eleutherodactylus unicolor,White-lipped Frog
+Amphibia,Hylodes phyllodes,Rocket Frog
+Amphibia,Smilisca phaeota,Mexican Tree Frog
+Amphibia,Osteocephalus taurinus,Amazonian Poison Frog
+Amphibia,Atelopus zeteki,Panamanian Golden Frog
+Amphibia,Incilius alvarius,Colorado River Toad
+Amphibia,Rana dalmatina,Agile Frog
+Amphibia,Pelophylax ridibundus,Marsh Frog
+Amphibia,Hyla meridionalis,Mediterranean Tree Frog
+Amphibia,Discoglossus pictus,Painted Frog
+Amphibia,Pelodytes punctatus,Parsley Frog
+Amphibia,Alytes obstetricans,Common Midwife Toad
+Amphibia,Scaphiopus holbrookii,Eastern Spadefoot Toad
+Amphibia,Spea multiplicata,Mexican Spadefoot Toad
+Amphibia,Pelobates fuscus,Common Spadefoot
+Amphibia,Leptodactylus latrans,Wolf Frog
+Amphibia,Ceratobatrachus guentheri,Guam Narrow-mouthed Frog
+Amphibia,Eleutherodactylus johnstonei,Johnstone's Whistling Frog
+Amphibia,Hylophorbus rufescens,Red Tree Frog
+Amphibia,Limnonectes larvaepartus,Mouth-brooding Frog
+Amphibia,Callulina kreffti,Krefft's Frog
+Amphibia,Hyperolius viridiflavus,African Reed Frog
+Amphibia,Chiromantis xerampelina,Asian Foam-nest Tree Frog
+Amphibia,Rhacophorus maximus,Giant Tree Frog
+Amphibia,Zhangixalus prasinus,Green Tree Frog
+Amphibia,Kurixalus eiffingeri,Brown Tree Frog
+Amphibia,Pseudophilautus silus,Sri Lanka Shrub Frog
+Amphibia,Philautus limbugensis,Limbugensis Frog
+Amphibia,Odorrana margaretae,Margaret's Frog
+Amphibia,Amolops marmoratus,Marbled Stream Frog
+Amphibia,Nanorana parkeri,Tibetan Frog
+Amphibia,Quasipaa spinosa,Spiny Frog
+Amphibia,Ichthyophis glutinosus,Common Caecilian
+Amphibia,Gegeneophis ramaswamii,Indian Caecilian
+Amphibia,Uperoleia laevigata,Smooth Toadlet
+Amphibia,Crinia deserticola,Desert Frog
+Amphibia,Litoria ewingii,Ewing's Tree Frog
+Amphibia,Litoria rothii,Roth's Tree Frog
+Amphibia,Limnodynastes dumerilii,Eastern Froglet
+Amphibia,Neobatrachus centralis,Central Spadefoot Frog
+Amphibia,Ranoidea caerulea,Australian Green Tree Frog
+Amphibia,Cyclorana australis,Northern Water-holding Frog
+Amphibia,Litoria nudidigitus,Bare-digit Tree Frog
+Amphibia,Platyplectrum ornatum,Ornate Frog
+Amphibia,Mixophyes iteratus,Giant Barred Frog
+Amphibia,Heleioporus australiensis,Australian Toadlet
+Amphibia,Limnodynastes fletcheri,Fletcher's Frog
+Amphibia,Ranoidea raniformis,Growling Grass Frog
+Amphibia,Litoria verreauxii,Verreaux's Tree Frog
+Amphibia,Litoria peronii,Peron's Tree Frog
+Amphibia,Uperoleia rugosa,Wrinkled Toadlet
+Amphibia,Geocrinia vitellina,Southern Froglet
+Amphibia,Neobatrachus sudelli,Sudell's Frog
+Amphibia,Pseudophryne corroboree,Corroboree Frog
+Amphibia,Taudactylus diurnus,Diurnal Frog
+Amphibia,Philoria frosti,Frost's Frog
+Amphibia,Limnodynastes tasmaniensis,Tasmanian Frog
+Amphibia,Austrochaperina arboricola,Tree Frog
+Amphibia,Litoria fallax,Eastern Dwarf Tree Frog
+Amphibia,Ranoidea nannotis,Mountain Frog
+Amphibia,Ranoidea maini,Main's Frog
+Amphibia,Crinia insignis,Eastern Froglet
+Amphibia,Lechriodus melanopyga,Black-soled Frog
+Amphibia,Litoria aurea,Green and Golden Bell Frog
+Amphibia,Acanthixalus sonjae,Kinabalu Leaf Litter Frog
+Amphibia,Adelophryne patamona,Adelophryne patamona
+Amphibia,Alsodes gargola,Gargola's Frog
+Amphibia,Amolops andersoni,Anderson's Torrent Frog
+Amphibia,Anaxyrus boreas,Boreal Toad
+Amphibia,Andrias japonicus,Japanese Giant Salamander
+Amphibia,Ansonia latidisca,Bornean Rainbow Toad
+Amphibia,Aplastodiscus perviridis,Green Tree Frog
+Amphibia,Arthroleptis poecilonotus,Peters' Squeaker
+Amphibia,Ascaphus truei,Tailed Frog
+Amphibia,Astylosternus diadematus,Diademate Frog
+Amphibia,Atelopus varius,Harlequin Frog
+Amphibia,Barygenys exsul,Exsul Frog
+Amphibia,Batrachuperus pinchonii,Chinese Mountain Salamander
+Amphibia,Brachycephalus didactylus,Pumpkin Toadlet
+Amphibia,Bufo andrews,Andrews' Toad
+Amphibia,Bufo gargarizans,Chinese Toad
+Amphibia,Caecilia nigricans,Black Caecilian
+Amphibia,Callixalus leuciscus,Leuciscus Frog
+Amphibia,Cardioglossa gracilipes,Long-legged Frog
+Amphibia,Centrolene prosoblepon,Fleischmann's Glass Frog
+Amphibia,Ceratophrys cranwelli,Cranwell's Horned Frog
+Amphibia,Chiasmocleis ventrimaculata,Ventrimaculate Frog
+Amphibia,Chthonerpeton indistinctum,Indistinct Caecilian
+Amphibia,Cochranella granulosa,Granular Glass Frog
+Amphibia,Craugastor bransfordii,Bransford's Frog
+Amphibia,Cryptobranchus alleganiensis,Hellbender
+Amphibia,Dendrobates azureus,Azure Poison Frog
+Amphibia,Dendrophryniscus breviprinus,Short-snouted Toad
+Amphibia,Desmognathus fuscus,Dusky Salamander
+Amphibia,Discoglossus galganoi,Iberian Painted Frog
+Amphibia,Edalorhina perezi,Perez's Frog
+Amphibia,Echinotriton andersoni,Anderson's Salamander
+Amphibia,Epiperates trilineatus,Three-lined Frog
+Amphibia,Eurycea longicauda,Long-tailed Salamander
+Amphibia,Excidobates mysteriosus,Mysterious Poison Frog
+Amphibia,Flectonotus fitzgeraldi,Fitzgerald's Frog
+Amphibia,Gastrotheca riobambae,Riobamba Marsupial Frog
+Amphibia,Geobatrachus walkeri,Walker's Frog
+Amphibia,Gyrinophilus porphyriticus,Spring Salamander
+Amphibia,Hemiphractus johnsoni,Johnson's Horned Frog
+Amphibia,Ichthyophis kohtaoensis,Kohtao Caecilian
+Amphibia,Idiomelas nigroviridis,Black-green Frog
+Amphibia,Ingerophrynus celebensis,Celebes Toad
+Amphibia,Ischnocnema guantanamera,Guantanamera Frog
+Amphibia,Kassina senegalensis,Senegal Running Frog
+Amphibia,Leiopelma hochstetteri,Hochstetter's Frog
+Amphibia,Leptodactylus fuscus,Brown Frog
+Amphibia,Limnonectes palmpes,Palmipes Frog
+Amphibia,Litoria infrafrenata,Giant Tree Frog
+Amphibia,Litoria nasuta,Striped Rocket Frog
+Amphibia,Megophrys nasuta,Malayan Horned Frog
+Amphibia,Melanophryniscus stelzneri,Stelzner's Toad
+Amphibia,Microcaecilia dermatophaga,Dermatophagous Caecilian
+Amphibia,Mixophyes balbus,Stuttering Frog
+Amphibia,Myobatrachus gouldi,Turtle Frog
+Amphibia,Nannophrys ceylonica,Sri Lanka Rock Frog
+Amphibia,Nyctimantis rugiceps,Rugiceps Frog
+Amphibia,Oedipina complex,Complex Salamander
+Amphibia,Ophryophryne microstoma,Microstoma Frog
+Amphibia,Oreolalax major,Major Toad
+Amphibia,Paramesotriton hongkongensis,Hong Kong Newt
+Amphibia,Paratelmatobius gaigei,Gaige's Frog
+Amphibia,Peltophryne peltocephala,Cuban Giant Toad
+Amphibia,Phyllomedusa bicolor,Giant Leaf Frog
+Amphibia,Platymantis pelewensis,Pelew Frog
+Amphibia,Plethodon glutinosus,Slimy Salamander
+Amphibia,Proceratophrys boiei,Boie's Horned Frog
+Amphibia,Pseudacris ornata,Ornate Chorus Frog
+Amphibia,Pseudobufo subasper,False Toad
+Amphibia,Rhinoderma darwinii,Darwin's Frog
+Amphibia,Rhinophrynus dorsalis,Mexican Burrowing Toad
+Amphibia,Salamandra algira,Algerian Salamander
+Amphibia,Scinax ruber,Ruber Tree Frog
+Amphibia,Siren lacertina,Greater Siren
+Amphibia,Speleomantes imperialis,Imperial Cave Salamander
+Amphibia,Sphenophryne cornuta,Horned Frog
+Amphibia,Stereocyclops histrio,Histrio Frog
+Amphibia,Synapturanus mirandaribeiroi,Miranda-Ribeiro's Frog
+Amphibia,Tachycnemis quadrivittata,Four-striped Grass Frog
+Amphibia,Telmatobius culeus,Titicaca Water Frog
+Amphibia,Thorius pennatulus,Minute Salamander
+Amphibia,Trachycephalus resinifictrix,Resin Tree Frog
+Amphibia,Tylototriton verrucosus,Himalayan Crocodile Newt
+Amphibia,Uraeotyphlus narayani,Narayani's Caecilian
+Amphibia,Xenopus tropicalis,Western Clawed Frog
+Amphibia,Bufo viridis,European Green Toad
+Amphibia,Bombina pachypus,Apennine Yellow-bellied Toad
+Amphibia,Hyla japonica,Japanese Tree Frog
+Amphibia,Litoria moorei,Moore's Tree Frog
+Amphibia,Rana sylvatica,Wood Frog
+Amphibia,Rana pipiens,Northern Leopard Frog
+Amphibia,Rana draytonii,California Red-legged Frog
+Amphibia,Rana boylii,Foothill Yellow-legged Frog
+Amphibia,Rana cascadae,Cascades Frog
+Amphibia,Pseudacris triseriata,Western Chorus Frog
+Amphibia,Pseudacris regilla,Pacific Chorus Frog
+Amphibia,Ascaphus montanus,Rocky Mountain Tailed Frog
+Amphibia,Bolitoglossa vallecula,Valley Climbing Salamander
+Amphibia,Bolitoglossa resplendens,Resplendent Salamander
+Amphibia,Hynobius retardatus,Japanese Salamander
+Amphibia,Hynobius nebulosus,Cloudy Salamander
+Amphibia,Eurycea bislineata,Two-lined Salamander
+Amphibia,Eurycea cirrigera,Southern Two-lined Salamander
+Amphibia,Dicamptodon tenebrosus,Coastal Giant Salamander
+Amphibia,Ambystoma talpoideum,Mole Salamander
+Amphibia,Ambystoma maculatum,Spotted Salamander
+Amphibia,Plethodon cinereus,Red-backed Salamander
+Amphibia,Plethodon jordani,Jordan's Salamander
+Amphibia,Ensatina eschscholtzii,Ensatina Salamander
+Amphibia,Batrachoseps attenuatus,Slender Salamander
+Amphibia,Batrachoseps luciae,Santa Lucia Salamander
+Amphibia,Ichthyophis bombayensis,Bombay Caecilian
+Amphibia,Gegeneophis seshachari,Seshachari's Caecilian
+Amphibia,Caudacaecilia tentaculata,Tentacled Caecilian
+Amphibia,Rhinatrema bivittatum,Two-striped Caecilian
+Amphibia,Dermophis mexicanus,Mexican Caecilian
+Amphibia,Typhlonectes natans,Aquatic Caecilian
+Amphibia,Eleutherodactylus limbatus,Striped Rain Frog
+Amphibia,Pristimantis ridens,Ridged Rain Frog
+Amphibia,Pristimantis ockendeni,Ockenden's Rain Frog
+Amphibia,Pristimantis petersi,Peters' Rain Frog
+Amphibia,Craugastor boulengeri,Boulenger's Rain Frog
+Amphibia,Craugastor fleischmanni,Fleischmann's Rain Frog
+Amphibia,Eleutherodactylus fuscus,Dusky Rain Frog
+Amphibia,Phyllodytes luteolus,Yellow Bromeliad Frog
+Amphibia,Phyllodytes edelmoi,Edelmoi's Bromeliad Frog
+Amphibia,Osteocephalus oophagus,Oophagous Poison Frog
+Amphibia,Hyalinobatrachium fleischmanni,Fleischmann's Glass Frog
+Amphibia,Centrolene geckoideum,Gecko Glass Frog
+Amphibia,Cochranella dispar,Spotted Glass Frog
+Amphibia,Nymphargus grandisonae,Grandison's Glass Frog
+Amphibia,Vitreorana helenae,Helena's Glass Frog
+Amphibia,Hyla regilla,Pacific Tree Frog
+Amphibia,Pseudacris streckeri,Strecker's Chorus Frog
+Amphibia,Acris crepitans,Northern Cricket Frog
+Amphibia,Osteopilus dominicensis,Dominican Tree Frog
+Amphibia,Leptolalax pelodytoides,Common Borneo Frog
+Amphibia,Limnonectes fragilis,Fragile Fanged Frog
+Amphibia,Occidozyga lima,Lima Dwarf Frog
+Amphibia,Micrixalus kottigeharensis,Dancing Frog
+Amphibia,Indirana leptodactyla,Narrow-digit Frog
+Amphibia,Nyctibatrachus hussaini,Hussain's Night Frog
+Amphibia,Raorchestes tinniens,Chubby Bush Frog
+Amphibia,Kurixalus naso,Nasal Bush Frog
+Amphibia,Ptychadena mascareniensis,Mascarene Grass Frog
+Pisces,Salmo salar,Atlantic Salmon
+Pisces,Oncorhynchus mykiss,Rainbow Trout
+Pisces,Thunnus thynnus,Atlantic Bluefin Tuna
+Pisces,Thunnus albacares,Yellowfin Tuna
+Pisces,Scomber scombrus,Atlantic Mackerel
+Pisces,Gadus morhua,Atlantic Cod
+Pisces,Clupea harengus,Atlantic Herring
+Pisces,Engraulis encrasicolus,European Anchovy
+Pisces,Merlangius merlangus,Whiting
+Pisces,Micromesistius poutassou,Blue Whiting
+Pisces,Pollachius virens,Saithe
+Pisces,Gadiculus argenteus,Silvery Pout
+Pisces,Merluccius merluccius,European Hake
+Pisces,Dicentrarchus labrax,European Sea Bass
+Pisces,Sparus aurata,Gilthead Seabream
+Pisces,Pagrus pagrus,Red Porgy
+Pisces,Lophius piscatorius,Anglerfish
+Pisces,Serranus scriba,Comber
+Pisces,Mullus barbatus,Red Mullet
+Pisces,Pleuronectes platessa,European Plaice
+Pisces,Solea solea,Common Sole
+Pisces,Scophthalmus maximus,Turbot
+Pisces,Hippoglossus hippoglossus,Atlantic Halibut
+Pisces,Reinhardtius hippoglossoides,Greenland Halibut
+Pisces,Clupea pallasii,Pacific Herring
+Pisces,Oncorhynchus tshawytscha,Chinook Salmon
+Pisces,Oncorhynchus kisutch,Coho Salmon
+Pisces,Oncorhynchus nerka,Sockeye Salmon
+Pisces,Esox lucius,Northern Pike
+Pisces,Sander lucioperca,Zander
+Pisces,Lota lota,Burbot
+Pisces,Ictalurus punctatus,Channel Catfish
+Pisces,Silurus glanis,Wels Catfish
+Pisces,Cyprinus carpio,Common Carp
+Pisces,Carassius auratus,Goldfish
+Pisces,Hypophthalmichthys molitrix,Silver Carp
+Pisces,Ctenopharyngodon idella,Grass Carp
+Pisces,Aristichthys nobilis,Bighead Carp
+Pisces,Mylopharyngodon piceus,Black Carp
+Pisces,Pangasianodon hypophthalmus,Basa Fish
+Pisces,Oreochromis niloticus,Nile Tilapia
+Pisces,Tilapia zillii,Redbelly Tilapia
+Pisces,Sarotherodon melanotheron,Blackchin Tilapia
+Pisces,Mugil cephalus,Flathead Grey Mullet
+Pisces,Liza aurata,Golden Grey Mullet
+Pisces,Ellochelon vaigiensis,Squaretail Mullet
+Pisces,Trachurus trachurus,Atlantic Horse Mackerel
+Pisces,Caranx crysos,Blue Runner
+Pisces,Seriola dumerili,Greater Amberjack
+Pisces,Seriola lalandi,Yellowtail Amberjack
+Pisces,Sphyraena barracuda,Great Barracuda
+Pisces,Lutjanus campechanus,Red Snapper
+Pisces,Lutjanus griseus,Gray Snapper
+Pisces,Mycteroperca bonaci,Black Grouper
+Pisces,Epinephelus morio,Red Grouper
+Pisces,Epinephelus itajara,Goliath Grouper
+Pisces,Pomatomus saltatrix,Bluefish
+Pisces,Trachinotus carolinus,Pompano
+Pisces,Acanthopagrus butcheri,Black Bream
+Pisces,Acanthopagrus australis,Yellowfin Bream
+Pisces,Pagrus auratus,Snapper
+Pisces,Chrysophrys auratus,Sea Perch
+Pisces,Sillago sihama,Silver Sillago
+Pisces,Platycephalus indicus,Bartail Flathead
+Pisces,Cynoglossus semilaevis,Tongue Sole
+Pisces,Parachaenichthys charcoti,Antarctic Icefish
+Pisces,Notothenia coriiceps,Black Rockcod
+Pisces,Trematomus bernacchii,Emerald Rockcod
+Pisces,Dissostichus mawsoni,Patagonian Toothfish
+Pisces,Anoplopoma fimbria,Sablefish
+Pisces,Sebastes rubrivinctus,Rougheye Rockfish
+Pisces,Sebastes schlegelii,Black Rockfish
+Pisces,Sebastes miniatus,Vermilion Rockfish
+Pisces,Sebastes caurinus,Copper Rockfish
+Pisces,Scomber japonicus,Pacific Mackerel
+Pisces,Auxis thazard,Frigate Tuna
+Pisces,Katsuwonus pelamis,Skipjack Tuna
+Pisces,Euthynnus alletteratus,Little Tunny
+Pisces,Auxis rochei,Bullet Tuna
+Pisces,Thunnus obesus,Bigeye Tuna
+Pisces,Thunnus orientalis,Pacific Bluefin Tuna
+Pisces,Pampus argenteus,Silver Pomfret
+Pisces,Parastromateus niger,Japanese Scad
+Pisces,Decapterus macarellus,Mackerel Scad
+Pisces,Trachurus novaezelandiae,New Zealand Jack Mackerel
+Pisces,Scomber australasicus,Australian Mackerel
+Pisces,Johnius belangerii,Croaker
+Pisces,Sciaenops ocellatus,Red Drum
+Pisces,Cynoscion nebulosus,Spotted Seatrout
+Pisces,Micropogonias undulatus,Atlantic Croaker
+Pisces,Paralichthys dentatus,Summer Flounder
+Pisces,Paralichthys lethostigma,Southern Flounder
+Pisces,Hippoglossina oblonga,Pacific Sanddab
+Pisces,Etelis coruscans,Golden Snapper
+Pisces,Lutjanus rivulatus,Mangrove Red Snapper
+Pisces,Emmelichthyops ruber,Ruby Snapper
+Pisces,Pomadasys corvina,Silver Seabream
+Pisces,Trachinotus blochii,Indian Pompano
+Pisces,Lates calcarifer,Barramundi
+Pisces,Sillaginodes punctatus,Spotted Sillago
+Pisces,Abramis brama,Common Bream
+Pisces,Acanthopagrus latus,Japanese Bream
+Pisces,Acipenser baerii,Siberian Sturgeon
+Pisces,Acipenser gueldenstaedtii,Russian Sturgeon
+Pisces,Acipenser ruthenus,Sterlet
+Pisces,Acipenser transmontanus,White Sturgeon
+Pisces,Aequidens rivulatus,Green Terror
+Pisces,Alosa alosa,Allis Shad
+Pisces,Alosa fallax,Twaite Shad
+Pisces,Ambassis dussumieri,Malabar Glassfish
+Pisces,Amphiprion ocellaris,Ocellaris Clownfish
+Pisces,Anchoa mitchilli,Bay Anchovy
+Pisces,Anostomus anostomus,Anostomus
+Pisces,Apogon lineatus,Striped Cardinalfish
+Pisces,Arapaima gigas,Arapaima
+Pisces,Argentina silus,Greater Argentine
+Pisces,Arius felis,Hardhead Catfish
+Pisces,Atherina boyeri,Sand Smelt
+Pisces,Aulonocara baenschi,Red Empress
+Pisces,Bagre marinus,Gafftopsail Catfish
+Pisces,Balistes capriscus,Grey Triggerfish
+Pisces,Barbodes gonionotus,Java Barb
+Pisces,Barbus barbus,Barbel
+Pisces,Bathylagus antarcticus,Antarctic Silverfish
+Pisces,Belone belone,Garfish
+Pisces,Betta splendens,Siamese Fighting Fish
+Pisces,Blicca bjoerkna,Silver Bream
+Pisces,Boraras brigittae,Mosquito Rasbora
+Pisces,Brachydanio rerio,Zebrafish
+Pisces,Brycon orbignyanus,Sabalo
+Pisces,Caecobarbus geertsii,Congo Blind Barb
+Pisces,Callorhinchus milii,Australian Ghostshark
+Pisces,Capros aper,Boarfish
+Pisces,Carassius carassius,Crucian Carp
+Pisces,Centrolabrus exoletus,Rock Cook
+Pisces,Cephalopholis argus,Peacock Hind
+Pisces,Channa argus,Northern Snakehead
+Pisces,Chanos chanos,Milkfish
+Pisces,Cheilinus undulatus,Humphead Wrasse
+Pisces,Chiloscylus colias,Redbanded Rockfish
+Pisces,Chromis chromis,Damselfish
+Pisces,Cichla temensis,Peacock Bass
+Pisces,Citharichthys sordidus,Pacific Sanddab
+Pisces,Clarias gariepinus,African Sharptooth Catfish
+Pisces,Coryphaena hippurus,Dorado
+Pisces,Corydoras aeneus,Bronze Corydoras
+Pisces,Cottus gobio,Bullhead
+Pisces,Ctenolabrus rupestris,Goldsinny Wrasse
+Pisces,Cyclopterus lumpus,Lumpfish
+Pisces,Danio rerio,Zebrafish
+Pisces,Dasyatis pastinaca,Common Stingray
+Pisces,Dentex dentex,Common Dentex
+Pisces,Diplodus sargus,White Seabream
+Pisces,Echeneis naucrates,Remora
+Pisces,Echinorhinus brucus,Bramble Shark
+Pisces,Elops saurus,Ladyfish
+Pisces,Epinephelus marginatus,Dusky Grouper
+Pisces,Eptatretus stoutii,Pacific Hagfish
+Pisces,Etmopterus princeps,Great Lanternshark
+Pisces,Eudontomyzon danfordi,Danube Lamprey
+Pisces,Euthynnus affinis,Kawakawa
+Pisces,Fistularia commersonii,Bluespotted Cornetfish
+Pisces,Fundulus heteroclitus,Mummichog
+Pisces,Gadus macrocephalus,Pacific Cod
+Pisces,Galeocerdo cuvier,Tiger Shark
+Pisces,Galeorhinus galeus,Tope Shark
+Pisces,Gambusia affinis,Mosquitofish
+Pisces,Gasterosteus aculeatus,Three-spined Stickleback
+Pisces,Glyptocephalus cynoglossus,Witch Flounder
+Pisces,Gymnotus carapo,Electric Eel
+Pisces,Helicolenus dactylopterus,Rockfish
+Pisces,Hemiramphus brasiliensis,Ballyhoo
+Pisces,Hexanchus griseus,Sixgill Shark
+Pisces,Hippocampus barbouri,Barbour's Seahorse
+Pisces,Holocentrus adscensionis,Squirrelfish
+Pisces,Hoplostethus atlanticus,Orange Roughy
+Pisces,Huso huso,Beluga Sturgeon
+Pisces,Hypoplectrus puella,Hamlet
+Pisces,Isurus oxyrinchus,Shortfin Mako
+Pisces,Kryptopterus bicirrhis,Glass Catfish
+Pisces,Labrus bergylta,Ballan Wrasse
+Pisces,Lamna nasus,Porbeagle Shark
+Pisces,Lepidopodus caudatus,Silver Scabbardfish
+Pisces,Lepomis macrochirus,Bluegill
+Pisces,Limanda limanda,Dab
+Pisces,Loricaria lentiginosa,Whiptail Catfish
+Pisces,Macrourus berglax,Roughhead Grenadier
+Pisces,Mallotus villosus,Capelin
+Pisces,Megalops atlanticus,Tarpon
+Pisces,Melanogrammus aeglefinus,Haddock
+Pisces,Menticirrhus americanus,Southern Kingfish
+Pisces,Microgadus tomcod,Atlantic Tomcod
+Pisces,Microstomus kitt,Lemon Sole
+Pisces,Mola mola,Ocean Sunfish
+Pisces,Mora moro,Mora
+Pisces,Mormyrus rume,Elephantfish
+Pisces,Mustelus asterias,Starry Smooth-hound
+Pisces,Myoxocephalus scorpius,Shorthorn Sculpin
+Pisces,Nematobrachion boopis,Bentheuphausia amblyops
+Pisces,Neoceratodus forsteri,Australian Lungfish
+Pisces,Odontaspis ferox,Ragged-tooth Shark
+Pisces,Ophiocephalus striatus,Striped Snakehead
+Pisces,Oryzias latipes,Medaka
+Pisces,Osmerus mordax,Rainbow Smelt
+Pisces,Perca fluviatilis,European Perch
+Pisces,Perca flavescens,Yellow Perch
+Pisces,Petromyzon marinus,Sea Lamprey
+Pisces,Phoxinus phoxinus,Minnow
+Pisces,Platichthys flesus,Flounder
+Pisces,Poecilia reticulata,Guppy
+Pisces,Pollachius pollachius,Pollock
+Pisces,Polyodon spathula,American Paddlefish
+Pisces,Pomacentrus coelestis,Neon Damsel
+Pisces,Psetta maxima,Turbot
+Pisces,Pterois volitans,Lionfish
+Pisces,Raja clavata,Thornback Ray
+Pisces,Ranzania laevis,Slender Sunfish
+Pisces,Rasbora heteromorpha,Harlequin Rasbora
+Pisces,Rhincodon typus,Whale Shark
+Pisces,Salvelinus fontinalis,Brook Trout
+Pisces,Salvelinus alpinus,Arctic Char
+Pisces,Sardina pilchardus,European Pilchard
+Pisces,Sardinops sagax,Pacific Sardine
+Pisces,Scarus ghobban,Bluebarred Parrotfish
+Pisces,Scyliorhinus canicula,Lesser Spotted Dogfish
+Pisces,Siganus fuscescens,Mottled Rabbitfish
+Pisces,Solea senegalensis,Senegalese Sole
+Pisces,Sphyrna zygaena,Smooth Hammerhead
+Pisces,Squatina squatina,Angel Shark
+Pisces,Stizostedion vitreum,Walleye
+Pisces,Symbolophorus barnardi,Lanternfish
+Pisces,Synodus saurus,Lizardfish
+Pisces,Tautoga onitis,Tautog
+Pisces,Tetraodon nigroviridis,Green Pufferfish
+Pisces,Thalassoma bifasciatum,Bluehead Wrasse
+Pisces,Thunnus maccoyii,Southern Bluefin Tuna
+Pisces,Tinca tinca,Tench
+Pisces,Torpedo marmorata,Marbled Electric Ray
+Pisces,Trichiurus lepturus,Largehead Hairtail
+Pisces,Umbrina cirrosa,Shi Drum
+Pisces,Xiphias gladius,Swordfish
+Pisces,Zenopsis nebulosa,John Dory
+Insecta,Apis mellifera,Honey Bee
+Insecta,Danaus plexippus,Monarch Butterfly
+Insecta,Musca domestica,Housefly
+Insecta,Aedes aegypti,Yellow Fever Mosquito
+Insecta,Anopheles gambiae,African Malaria Mosquito
+Insecta,Blattella germanica,German Cockroach
+Insecta,Periplaneta americana,American Cockroach
+Insecta,Gryllus domesticus,House Cricket
+Insecta,Locusta migratoria,Migratory Locust
+Insecta,Schistocerca gregaria,Desert Locust
+Insecta,Drosophila melanogaster,Fruit Fly
+Insecta,Tenebrio molitor,Mealworm Beetle
+Insecta,Tribolium castaneum,Red Flour Beetle
+Insecta,Coccinella septempunctata,Seven-spotted Ladybug
+Insecta,Harmonia axyridis,Harlequin Ladybird
+Insecta,Cicada orni,Ornate Cicada
+Insecta,Magicicada septendecim,17-Year Cicada
+Insecta,Romalea microptera,Eastern Lubber Grasshopper
+Insecta,Melanoplus femurrubrum,Red-legged Grasshopper
+Insecta,Stenopelmatus fuscus,Jerusalem Cricket
+Insecta,Mantis religiosa,European Mantis
+Insecta,Phasmatodea spp.,Stick Insect
+Insecta,Carausius morosus,Indian Stick Insect
+Insecta,Formica rufa,Red Wood Ant
+Insecta,Camponotus pennsylvanicus,Black Carpenter Ant
+Insecta,Solenopsis invicta,Red Imported Fire Ant
+Insecta,Lasius niger,Black Garden Ant
+Insecta,Termes flavipes,Eastern Subterranean Termite
+Insecta,Reticulitermes flavipes,Eastern Subterranean Termite
+Insecta,Zootermopsis angusticollis,Dampwood Termite
+Insecta,Odonata spp.,Dragonfly
+Insecta,Calopteryx virgo,Banded Demoiselle
+Insecta,Sympetrum striolatum,Common Darter
+Insecta,Diptera spp.,Fly
+Insecta,Calliphora vomitoria,Blue Bottle Fly
+Insecta,Sarcophaga carnaria,Flesh Fly
+Insecta,Eristalis tenax,Drone Fly
+Insecta,Coleoptera spp.,Beetle
+Insecta,Lucanus cervus,Stag Beetle
+Insecta,Dynastes hercules,Hercules Beetle
+Insecta,Cetonia aurata,Rose Chafer
+Insecta,Curculio nucum,Nut Weevil
+Insecta,Lepidoptera spp.,Moth
+Insecta,Actias luna,Luna Moth
+Insecta,Antheraea polyphemus,Polyphemus Moth
+Insecta,Manduca sexta,Tobacco Hornworm
+Insecta,Plutella xylostella,Diamondback Moth
+Insecta,Hymenoptera spp.,Wasp
+Insecta,Vespula vulgaris,Common Wasp
+Insecta,Polistes dominula,European Paper Wasp
+Insecta,Apis cerana,Asian Honey Bee
+Insecta,Bombus terrestris,Buff-tailed Bumblebee
+Insecta,Megachile rotundata,Alfalfa Leafcutter Bee
+Insecta,Halictus spp.,Sweat Bee
+Insecta,Andrena spp.,Mining Bee
+Insecta,Osmia spp.,Mason Bee
+Insecta,Aglais urticae,Small Tortoiseshell Butterfly
+Insecta,Vanessa atalanta,Red Admiral Butterfly
+Insecta,Pieris rapae,Small White Butterfly
+Insecta,Colias croceus,Clouded Yellow Butterfly
+Insecta,Papilio machaon,Old World Swallowtail Butterfly
+Insecta,Hemiptera spp.,True Bug
+Insecta,Cimex lectularius,Bed Bug
+Insecta,Lygus lineolaris,Tarnished Plant Bug
+Insecta,Nezara viridula,Southern Green Stink Bug
+Insecta,Aphididae spp.,Aphid
+Insecta,Myzus persicae,Green Peach Aphid
+Insecta,Acyrthosiphon pisum,Pea Aphid
+Insecta,Thysanoptera spp.,Thrips
+Insecta,Frankliniella occidentalis,Western Flower Thrips
+Insecta,Thrips tabaci,Onion Thrips
+Insecta,Orthoptera spp.,Grasshopper
+Insecta,Tettigonia viridissima,Great Green Bush-cricket
+Insecta,Chorthippus brunneus,Field Grasshopper
+Insecta,Dermaptera spp.,Earwig
+Insecta,Forficula auricularia,Common Earwig
+Insecta,Labia minor,Lesser Earwig
+Insecta,Isoptera spp.,Termite
+Insecta,Mastotermes darwiniensis,Giant Termite
+Insecta,Cryptotermes brevis,Furniture Termite
+Insecta,Phthiraptera spp.,Louse
+Insecta,Pediculus humanus capitis,Head Louse
+Insecta,Pediculus humanus corporis,Body Louse
+Insecta,Pthirus pubis,Crab Louse
+Insecta,Siphonaptera spp.,Flea
+Insecta,Ctenocephalides felis,Cat Flea
+Insecta,Pulex irritans,Human Flea
+Insecta,Xenopsylla cheopis,Oriental Rat Flea
+Insecta,Strepsiptera spp.,Twisted-wing Parasite
+Insecta,Xenos vesparum,Xenos vesparum
+Insecta,Elenchus tenuicornis,Elenchus tenuicornis
+Insecta,Mecoptera spp.,Scorpionfly
+Insecta,Panorpa communis,Common Scorpionfly
+Insecta,Bittacus nervosus,Hangingfly
+Insecta,Neuroptera spp.,Lacewing
+Insecta,Chrysoperla carnea,Common Green Lacewing
+Insecta,Myrmeleon formicarius,Antlion
+Insecta,Trichoptera spp.,Caddisfly
+Insecta,Hydropsyche pellucidula,Caddisfly
+Insecta,Rhyacophila dorsalis,Caddisfly
+Insecta,Ephemeroptera spp.,Mayfly
+Insecta,Baetis rhodani,Mayfly
+Insecta,Ephemera danica,Mayfly
+Insecta,Plecoptera spp.,Stonefly
+Insecta,Perla marginata,Stonefly
+Insecta,Isoperla grammatica,Stonefly
+Insecta,Embioptera spp.,Webspinner
+Insecta,Oligotoma saundersii,Webspinner
+Insecta,Haploembia solifuga,Webspinner
+Insecta,Zoraptera spp.,Angel Insect
+Insecta,Zorotypus hubbardi,Angel Insect
+Insecta,Metaptera spp.,Metaptera
+Insecta,Stylotermes planifrons,Metaptera
+Insecta,Grylloblattodea spp.,Ice Crawler
+Insecta,Grylloblatta campodeiformis,Ice Crawler
+Insecta,Mantophasmatodea spp.,Heelwalker
+Insecta,Mantophasma zephyra,Heelwalker
+Arachnida,Acanthogonatus francki,Chilean Rose Hair Tarantula
+Arachnida,Achaearanea tepidariorum,Common House Spider
+Arachnida,Adiantum aethiopicum,Maidenhair Spleenwort Spider
+Arachnida,Agelena labyrinthica,Labyrinth Spider
+Arachnida,Agelenopsis aperta,Desert Grass Spider
+Arachnida,Agalenocosa maderiana,Madeiran Wolf Spider
+Arachnida,Allothele australis,Australian Funnel-web Spider
+Arachnida,Amaurobius similis,Lace Web Spider
+Arachnida,Anasaitis canosa,Twin-flagged Jumping Spider
+Arachnida,Ancylometes bogotensis,Bogota Fishing Spider
+Arachnida,Androctonus australis,Fat-tailed Scorpion
+Arachnida,Anelosimus studiosus,Social Spider
+Arachnida,Antrodiaetus unicolor,Folding Trapdoor Spider
+Arachnida,Aphonopelma chalcodes,Desert Blonde Tarantula
+Arachnida,Aptostichus stephencolberti,Stephen Colbert's Trapdoor Spider
+Arachnida,Araneus diadematus,European Garden Spider
+Arachnida,Argiope appensa,Large Garden Spider
+Arachnida,Argiope bruennichi,Wasp Spider
+Arachnida,Attulus pubescens,Dimorphic Jumping Spider
+Arachnida,Avicularia metallica,Metallic Pinktoe Tarantula
+Arachnida,Bactrodesmium longipes,Long-legged Harvestman
+Arachnida,Badumna longinqua,Grey House Spider
+Arachnida,Barychelus rufus,Red Trapdoor Spider
+Arachnida,Bothriurus asper,Chilean Scorpion
+Arachnida,Brachypelma albopilosa,Mexican Redknee Tarantula
+Arachnida,Brachypelma boehmei,Mexican Fireleg Tarantula
+Arachnida,Brachypelma emilia,Mexican Red Tarantula
+Arachnida,Brachypelma hamorii,Mexican Red Knee Tarantula
+Arachnida,Buthus occitanus,Common Yellow Scorpion
+Arachnida,Calisoma macrura,Calisoma Spider
+Arachnida,Castianeira amoena,Red-spotted Ant Mimic
+Arachnida,Cheiracanthium inclusum,Yellow Sac Spider
+Arachnida,Chiracanthium mildei,Long-legged Sac Spider
+Arachnida,Clubiona phragmitis,Reed Spider
+Arachnida,Clynotis severus,Severe Jumping Spider
+Arachnida,Coelotes terrestris,Cave Spider
+Arachnida,Coras medicinalis,Hobo Spider
+Arachnida,Cybaeopsis lacustris,Lake Spider
+Arachnida,Cyrtophora citricola,Tropical Tent-web Spider
+Arachnida,Damon diadema,Tailless Whip Scorpion
+Arachnida,Dendrolycosa robusta,Giant Wolf Spider
+Arachnida,Deuterocopus ruber,Red Velvet Mite
+Arachnida,Dictyna volucripes,Fast-footed Meshweb Weaver
+Arachnida,Dinoponera australis,Giant Ant
+Arachnida,Diploplectron brunneum,Blue-tailed Spider Wasp
+Arachnida,Dolichognatha proxima,Long-jawed Orb Weaver
+Arachnida,Drassodes lapidosus,Stone Spider
+Arachnida,Dysdera crocota,Woodlouse Spider
+Arachnida,Ebrechtella timida,Shy Crab Spider
+Arachnida,Erigone atra,Dwarf Spider
+Arachnida,Euscorpius flavicaudis,Small Wood Scorpion
+Arachnida,Evarcha arcuata,Arched Jumping Spider
+Arachnida,Frontinella communis,Bowl and Doily Spider
+Arachnida,Geolycosa missouriensis,Missouri Tarantula
+Arachnida,Grammostola pulchra,Brazilian Black Tarantula
+Arachnida,Hadronyche versuta,Tree Funnel-web Spider
+Arachnida,Haplopelma lividum,Cobalt Blue Tarantula
+Arachnida,Harpactira pulchripes,Orange Baboon Tarantula
+Arachnida,Hentzia palmarum,Palm Jumping Spider
+Arachnida,Heteropoda venatoria,Giant Huntsman Spider
+Arachnida,Hogna radiata,Wandering Wolf Spider
+Arachnida,Holocnemus pluchei,Daddy Long-legs Spider
+Arachnida,Hyllus diadematus,Crowned Jumping Spider
+Arachnida,Idaea dimidiata,Lesser Pin-marked Carpet Moth
+Arachnida,Ixodes scapularis,Deer Tick
+Arachnida,Kukulcania hibernalis,Southern House Spider
+Arachnida,Larinioides cornutus,European Furrow Spider
+Arachnida,Latrodectus geometricus,Brown Widow Spider
+Arachnida,Leiobunum vittatum,Striped Harvestman
+Arachnida,Lepthyphantes tenuis,Money Spider
+Arachnida,Liocranium rupicola,Rock Spider
+Arachnida,Lycosa tarantula,Tarantula Wolf Spider
+Arachnida,Lyssacrus fragilis,Glass Sponge 
+Arachnida,Macrothele calpeiana,Large Funnel-web Spider
+Arachnida,Mecynidis scutata,Hammock Spider
+Arachnida,Metepeira labyrinthea,Labyrinth Orb Weaver
+Arachnida,Metellina segmentata,Autumn Spider
+Arachnida,Micaria pulicaria,Ant-like Spider
+Arachnida,Microhexura montivaga,Appalachian Spider
+Arachnida,Misgolas rapax,Sydney Brown Trapdoor Spider
+Arachnida,Mygalarachne brevipalpis,Trapdoor Spider
+Arachnida,Myrmarachne formicaria,Ant-mimicking Jumping Spider
+Arachnida,Neoscona arabesca,Arabesque Orb Weaver
+Arachnida,Nesticus carteri,Cave Cobweb Spider
+Arachnida,Oecobius navus,Wall Spider
+Arachnida,Oxyopes salticus,Striped Lynx Spider
+Arachnida,Pachygnatha clercki,Long-jawed Spider
+Arachnida,Pardosa amentata,Spotted Wolf Spider
+Arachnida,Parasteatoda lunata,False Black Widow Spider
+Arachnida,Phidippus carneus,Red-backed Jumping Spider
+Arachnida,Pholcus phalangioides,Daddy Long-legs Spider
+Arachnida,Pisaura mirabilis,Nursery Web Spider
+Arachnida,Poecilotheria metallica,Gooty Sapphire Tarantula
+Arachnida,Porrhomma pallidum,Pale Dwarf Spider
+Arachnida,Psilochorus simoni,Long-bodied Cellar Spider
+Arachnida,Pterinochilus murinus,Usambara Baboon Tarantula
+Arachnida,Runcinia grammica,White-banded Crab Spider
+Arachnida,Saitis barbipes,Bearded Jumping Spider
+Arachnida,Salticus scenicus,Zebra Jumping Spider
+Arachnida,Scytodes thoracica,Spitting Spider
+Arachnida,Selenocosmia crassipes,Queensland Whistling Tarantula
+Arachnida,Smeringopus pallidus,Pale Pholcid Spider
+Arachnida,Sosticus californicus,California Ground Spider
+Arachnida,Steatoda bipunctata,False Black Widow
+Arachnida,Stenochrus angulatus,Angulate Trapdoor Spider
+Arachnida,Synema globosum,Slender Crab Spider
+Arachnida,Tetragnatha extensa,Long-jawed Orb Weaver
+Arachnida,Thiodina sylvana,Woodland Jumping Spider
+Arachnida,Tigrosa helluo,Pirate Wolf Spider
+Arachnida,Titanoeca nivalis,Snow Spider
+Arachnida,Tmarcus viridis,Green Huntsman Spider
+Arachnida,Troglohyphantes latzeli,Cave Spider
+Arachnida,Uloborus plumipes,Feather-legged Lace Weaver
+Crustacea,Acetes indicus,Sergestid Shrimp
+Crustacea,Aegla platensis,Aeglid Crab
+Crustacea,Alpheus bellulus,Snapping Shrimp
+Crustacea,Amphibalanus amphitrite,Striped Barnacle
+Crustacea,Aporcellana sayana,Porcelain Crab
+Crustacea,Atya gabonensis,African Filter Shrimp
+Crustacea,Austropotamobius pallipes,White-clawed Crayfish
+Crustacea,Balanus balanus,Northern Rock Barnacle
+Crustacea,Balanus glandula,Acorn Barnacle
+Crustacea,Bathynomus giganteus,Giant Isopod
+Crustacea,Birgus latro,Coconut Crab
+Crustacea,Bresilia plumifera,Bresilia Shrimp
+Crustacea,Callinectes sapidus,Blue Crab
+Crustacea,Calocaris macandreae,Norway Lobster
+Crustacea,Cancer irroratus,Atlantic Rock Crab
+Crustacea,Cancer magister,Dungeness Crab
+Crustacea,Cancer pagurus,Edible Crab
+Crustacea,Carcinus maenas,European Shore Crab
+Crustacea,Cardisoma carnifex,Land Crab
+Crustacea,Centropages typicus,Copepod
+Crustacea,Cerataspis monstrosa,Cerataspis
+Crustacea,Chionoecetes opilio,Snow Crab
+Crustacea,Clibanarius vittatus,Thinstripe Hermit Crab
+Crustacea,Corallianassa longiventris,Ghost Shrimp
+Crustacea,Crangon crangon,Brown Shrimp
+Crustacea,Cypridina hilgendorfii,Luminescent Ostracod
+Crustacea,Daphnia magna,Water Flea
+Crustacea,Diogenes pugilator,Hermit Crab
+Crustacea,Emerita analoga,Mole Crab
+Crustacea,Eriphia verrucosa,Warty Crab
+Crustacea,Euphausia superba,Krill
+Crustacea,Eurydice pulchra,Isopod
+Crustacea,Gammarus pulex,Freshwater Shrimp
+Crustacea,Gecarcoidea natalis,Christmas Island Red Crab
+Crustacea,Gelasimus pugilator,Fiddler Crab
+Crustacea,Grapsus grapsus,Sally Lightfoot Crab
+Crustacea,Hemigrapsus oregonensis,Oregon Shore Crab
+Crustacea,Homarus americanus,American Lobster
+Crustacea,Homarus gammarus,European Lobster
+Crustacea,Hyas araneus,Spider Crab
+Crustacea,Jasus edwardsii,Red Rock Lobster
+Crustacea,Kellia suborbicularis,Suborbicular Pea Crab
+Crustacea,Leander serratus,Common Prawn
+Crustacea,Ligia oceanica,Sea Slater
+Crustacea,Limulus polyphemus,Horseshoe Crab
+Crustacea,Lithodes maja,European Spider Crab
+Crustacea,Lysmata amboinensis,Cleaner Shrimp
+Crustacea,Macrobrachium rosenbergii,Giant Freshwater Prawn
+Crustacea,Macropipus puber,Velvet Swimming Crab
+Crustacea,Maja squinado,European Spider Crab
+Crustacea,Metacarcinus anthonyi,Pacific Rock Crab
+Crustacea,Metapenaeus monoceros,Speckled Shrimp
+Crustacea,Mysis relicta,Mysid Shrimp
+Crustacea,Nephrops norvegicus,Norway Lobster
+Crustacea,Ocypode quadrata,Ghost Crab
+Crustacea,Orconectes limosus,Spinycheek Crayfish
+Crustacea,Orconectes rusticus,Rusty Crayfish
+Crustacea,Pachygrapsus marmoratus,Marbled Rock Crab
+Crustacea,Pagurus bernhardus,Common Hermit Crab
+Crustacea,Palaemon elegans,Rockpool Shrimp
+Crustacea,Palaemon serratus,Common Prawn
+Crustacea,Panulirus argus,Caribbean Spiny Lobster
+Crustacea,Panulirus interruptus,California Spiny Lobster
+Crustacea,Paralithodes camtschaticus,King Crab
+Crustacea,Paralomis granulosa,Chilean King Crab
+Crustacea,Penaeus aztecus,Brown Shrimp
+Crustacea,Penaeus duorarum,Pink Shrimp
+Crustacea,Penaeus japonicus,Kuruma Shrimp
+Crustacea,Penaeus setiferus,White Shrimp
+Crustacea,Percnon gibbesi,Nimble Spray Crab
+Crustacea,Petrolisthes eriomerus,Porcelain Crab
+Crustacea,Pinnotheres sinensis,Pea Crab
+Crustacea,Planes minutus,Raft Crab
+Crustacea,Porcellio scaber,Common Woodlouse
+Crustacea,Portunus pelagicus,Blue Swimmer Crab
+Crustacea,Procambarus clarkii,Red Swamp Crayfish
+Crustacea,Pseudocarcinus maia,Tasmanian Giant Crab
+Crustacea,Pugettia producta,Kelp Crab
+Crustacea,Rhithropanopeus harrisii,Mud Crab
+Crustacea,Sacculina carcini,Barnacle
+Crustacea,Scylla serrata,Mud Crab
+Crustacea,Sesarme cinereum,Marsh Crab
+Crustacea,Sicyonia brevirostris,Royal Red Shrimp
+Crustacea,Sphaeroma serratum,Isopod
+Crustacea,Squilla mantis,Mantis Shrimp
+Crustacea,Stenopus hispidus,Coral Banded Shrimp
+Crustacea,Talitrus saltator,Sand Hopper
+Crustacea,Tecticeps alatus,Isopod
+Crustacea,Uca pugnax,Atlantic Fiddler Crab
+Crustacea,Uca tangeri,Red Fiddler Crab
+Crustacea,Upogebia deltaura,Mud Shrimp
+Crustacea,Upogebia stellata,Ghost Shrimp
+Crustacea,Verruca stroemia,Barnacle
+Crustacea,Achelous cranchii,Swimming Crab
+Crustacea,Aegla affinis,Aeglid Crab
+Crustacea,Alpheus heterochaelis,Bigclaw Snapping Shrimp
+Crustacea,Amphibalanus improvisus,Bay Barnacle
+Crustacea,Athanas nitescens,Pistol Shrimp
+Crustacea,Austropotamobius torrentium,Stone Crayfish
+Crustacea,Balanus crenatus,Ivory Barnacle
+Crustacea,Balanus eburneus,Ivory Barnacle
+Crustacea,Bathycaris bradfordi,Deep-sea Shrimp
+Crustacea,Biffarius biformis,Hermit Crab
+Crustacea,Bodotria scorpioides,Cumacean
+Crustacea,Calanus finmarchicus,Copepod
+Crustacea,Callianassa subterranea,Mud Shrimp
+Crustacea,Cancer borealis,Jonah Crab
+Crustacea,Caprella linearis,Skeleton Shrimp
+Crustacea,Caridina multidentata,Amano Shrimp
+Crustacea,Chionoecetes bairdi,Tanner Crab
+Crustacea,Clibanarius erythropus,Hermit Crab
+Crustacea,Corophium volutator,Amphipod
+Crustacea,Dardanus megistos,Hermit Crab
+Crustacea,Dromia personata,Sponge Crab
+Crustacea,Echinogammarus marinus,Amphipod
+Crustacea,Eriphia spinifrons,Hairy Crab
+Crustacea,Eualus gaimardii,Northern Stone Crab
+Crustacea,Galathea strigosa,Squat Lobster
+Crustacea,Gammarus locusta,Amphipod
+Crustacea,Geryon trispinus,Red Crab
+Crustacea,Halocaridina rubra,Hawaiian Red Shrimp
+Crustacea,Hemigrapsus nudus,Purple Shore Crab
+Crustacea,Hippolyte varians,Prawn
+Crustacea,Idotea balthica,Isopod
+Crustacea,Jaera albifrons,Isopod
+Crustacea,Kryptopotamoides andersoni,Freshwater Crab
+Crustacea,Limnoria quadripunctata,Gribble
+Crustacea,Liocarcinus depurator,Swimming Crab
+Crustacea,Loxorhynchus crispatus,Decorator Crab
+Crustacea,Macropodia rostrata,Spider Crab
+Crustacea,Meganyctiphanes norvegica,Krill
+Crustacea,Melita palmata,Amphipod
+Crustacea,Monodaeus edwardsi,Montagu's Crab
+Crustacea,Munida gregaria,Squat Lobster
+Crustacea,Niphargus aquilex,Amphipod
+Crustacea,Orchestia gammarellus,Amphipod
+Crustacea,Palaemon adspersus,Baltic Prawn
+Crustacea,Paracalanus parvus,Copepod
+Crustacea,Parathemisto libellula,Amphipod
+Crustacea,Pinnotheres pisum,Pea Crab
+Crustacea,Planes cyaneus,Pelagic Crab
+Crustacea,Pontophilus norvegicus,Deep-sea Prawn
+Crustacea,Processa edulis,Prawn
+Crustacea,Pseudocalanus elongatus,Copepod
+Crustacea,Rhepoxynius abronius,Amphipod
+Crustacea,Sphaeroma annandalei,Isopod
+Crustacea,Stenorhynchus seticornis,Arrow Crab
+Crustacea,Talorchestia deshayesii,Sand Hopper
+Crustacea,Tanais cavolinii,Tanaid
+Crustacea,Tigriopus californicus,Copepod
+Crustacea,Traskorchestia traskiana,Beach Hopper
+Crustacea,Trypetesa nasea,Barnacle (Parasitic on crabs)
+Crustacea,Urothoe brevicornis,Amphipod
+Crustacea,Xantho hydrophilus,Furrowed Crab
+Mollusca,Achatina fulica,Giant African Snail
+Mollusca,Adalaria proxima,White-spotted Sea Slug
+Mollusca,Aequipecten opercularis,Queen Scallop
+Mollusca,Amphibola crenata,Mud Snail
+Mollusca,Anadara granosa,Granular Ark
+Mollusca,Architectonica perspectiva,Sundial Shell
+Mollusca,Argonauta argo,Paper Nautilus
+Mollusca,Astraea heliotropium,Sunburst Top Shell
+Mollusca,Babelomurex japonicus,Japanese Babel Shell
+Mollusca,Bithynia tentaculata,Mud Bithynia Snail
+Mollusca,Buccinum undatum,Whelk
+Mollusca,Busycon carica,Knobbed Whelk
+Mollusca,Calliostoma zizyphinum,Painted Top Shell
+Mollusca,Calyptraea chinensis,Chinese Hat Snail
+Mollusca,Capulus ungaricus,Slipper Limpet
+Mollusca,Cardium edule,Cockle
+Mollusca,Cerastoderma glaucum,Lagoon Cockle
+Mollusca,Charonia tritonis,Triton's Trumpet
+Mollusca,Crepidula fornicata,Slipper Limpet
+Mollusca,Crassostrea gigas,Pacific Oyster
+Mollusca,Crassostrea virginica,Eastern Oyster
+Mollusca,Cypraea tigris,Tiger Cowrie
+Mollusca,Dentalium elephantinum,Elephant Tusk Shell
+Mollusca,Donax trunculus,Wedge Shell
+Mollusca,Echinolittorina malaccana,Malacca Periwinkle
+Mollusca,Ensis directus,Razor Clam
+Mollusca,Eobania vermiculata,Chocolate-banded Snail
+Mollusca,Erosaria erosa,Eroded Cowrie
+Mollusca,Fissurella crassa,Keyhole Limpet
+Mollusca,Fusinus colus,Spindle Shell
+Mollusca,Gari depressa,Sunset Clam
+Mollusca,Glycymeris glycymeris,Dog Cockle
+Mollusca,Haliotis tuberculata,Ormer
+Mollusca,Helix aspersa,Garden Snail
+Mollusca,Helix pomatia,Roman Snail
+Mollusca,Hydrobia ulvae,Mud Snail
+Mollusca,Janthina janthina,Violet Snail
+Mollusca,Katelysia rhytiphora,Katelysia Clam
+Mollusca,Kelletia kelletii,Kellet's Whelk
+Mollusca,Littorina littorea,Common Periwinkle
+Mollusca,Loligo vulgaris,European Squid
+Mollusca,Lymnaea stagnalis,Great Pond Snail
+Mollusca,Macoma balthica,Baltic Tellin
+Mollusca,Mactra corallina,Rayed Trough Shell
+Mollusca,Margarites helicinus,Helicine Top Shell
+Mollusca,Mytilus edulis,Blue Mussel
+Mollusca,Nassarius reticulatus,Netted Dog Whelk
+Mollusca,Nautilus pompilius,Chambered Nautilus
+Mollusca,Neptunea antiqua,Red Whelk
+Mollusca,Nucella lapillus,Dog Whelk
+Mollusca,Octopus vulgaris,Common Octopus
+Mollusca,Oliva porphyria,Porphyry Olive
+Mollusca,Ostrea edulis,European Flat Oyster
+Mollusca,Ovula ovum,Egg Cowrie
+Mollusca,Patella vulgata,Common Limpet
+Mollusca,Pecten maximus,Great Scallop
+Mollusca,Phalium glaucum,Helmet Shell
+Mollusca,Philine aperta,Sea Slug
+Mollusca,Pinna nobilis,Noble Pen Shell
+Mollusca,Planorbarius corneus,Ram's Horn Snail
+Mollusca,Pleurobranchus membranaceus,Sea Slug
+Mollusca,Polinices duplicatus,Moon Snail
+Mollusca,Pomacea canaliculata,Apple Snail
+Mollusca,Pteria hirundo,Atlantic Pearl Oyster
+Mollusca,Rapana venosa,Veined Rapa Whelk
+Mollusca,Sepia officinalis,Common Cuttlefish
+Mollusca,Siphonaria pectinata,False Limpet
+Mollusca,Spisula solidissima,Atlantic Surf Clam
+Mollusca,Strombus gigas,Queen Conch
+Mollusca,Tapes decussatus,Carpet Shell
+Mollusca,Teredo navalis,Naval Shipworm
+Mollusca,Thais haemastoma,Haemastoma Rock Shell
+Mollusca,Trivia monacha,European Cowrie
+Mollusca,Turbo cornutus,Horned Turban
+Mollusca,Turritella communis,Tower Shell
+Mollusca,Umbonium vestiarium,Button Shell
+Mollusca,Venerupis rhomboides,Rhomboid Venus
+Mollusca,Viviparus viviparus,River Snail
+Mollusca,Voluta musica,Music Volute
+Mollusca,Xenophora pallidula,Carrier Shell
+Mollusca,Abra alba,White Abra
+Mollusca,Acanthochitona crinita,Hairy Chiton
+Mollusca,Acmaea testudinalis,Tortoiseshell Limpet
+Mollusca,Aplysia punctata,Sea Hare
+Mollusca,Archachatina marginata,Giant West African Snail
+Mollusca,Arctica islandica,Ocean Quahog
+Mollusca,Bathyarca glacialis,Glacial Ark
+Mollusca,Bela minuta,Small Pointed Shell
+Mollusca,Bittium reticulatum,Netted Bittium
+Mollusca,Bulla striata,Striate Bubble
+Mollusca,Busycotypus canaliculatus,Channel Whelk
+Mollusca,Cardita variegata,Variegated Cardita
+Mollusca,Chlamys varia,Variable Scallop
+Mollusca,Colus gracilis,Slender Whelk
+Mollusca,Corbicula fluminea,Asian Clam
+Mollusca,Cratena peregrina,Sea Slug
+Mollusca,Cylindrus obtusus,Blunt Cylindrus
+Mollusca,Dendronotus frondosus,Tree-like Nudibranch
+Mollusca,Discus rotundatus,Round Snail
+Mollusca,Dosinia exoleta,Rayed Artemis
+Mollusca,Eledone cirrhosa,Curled Octopus
+Mollusca,Emarginula fissura,Keyhole Limpet
+Mollusca,Epitonium clathrus,Ladder Whelk
+Mollusca,Erato voluta,Nut Cowrie
+Mollusca,Fiona pinnata,Fiona
+Mollusca,Fulgoraria,Fulgoraria
+Mollusca,Gastropods,Gastropods
+Mollusca,Gibbula umbilicalis,Top Shell
+Mollusca,Gonatus fabricii,Fabricii's Squid
+Mollusca,Gymnotus carapo,Electric Eel
+Mollusca,Haminoea hydatis,Bubble Snail
+Mollusca,Harpa harpa,Harpa Shell
+Mollusca,Helcion pellucidum,Blue-rayed Limpet
+Mollusca,Hiatella arctica,Arctic Hiatella
+Mollusca,Hygromia striolata,Strawberry Snail
+Mollusca,Ischnochiton,Ischnochiton
+Mollusca,Kellia suborbicularis,Suborbicular Pea Clam
+Mollusca,Lacuna vincta,Chink Shell
+Mollusca,Laevistrombus canarium,Dog Conch
+Mollusca,Lepidochitona cinereus,Common Chiton
+Mollusca,Lima lima,Flame Scallop
+Mollusca,Limaria hians,File Shell
+Mollusca,Littorina saxatilis,Rough Periwinkle
+Mollusca,Luria lurida,Lurida Cowrie
+Mollusca,Lutraria lutraria,Otter Shell
+Mollusca,Lyonsia arenosa,Translucent Lyonsia
+Mollusca,Mangelia nebula,Mangelia
+Mollusca,Marginella glabella,Smooth Marginella
+Mollusca,Melampus bidentatus,Marsh Snail
+Mollusca,Melibe viridis,Hooded Nudibranch (Nudibranchs are mollusks)
+Mollusca,Modiolus modiolus,Horse Mussel
+Mollusca,Montaguia fragilis,Fragile Montaguia
+Mollusca,Murex brandaris,Purple Dye Murex
+Mollusca,Mycetopoda,Freshwater Mussel
+Mollusca,Mysella bidentata,Bidentate Mysella
+Mollusca,Naticarius hebraeus,Hebrew Moon Snail
+Mollusca,Neptunea lyrata,Lyrata Whelk
+Mollusca,Nucula nitida,Nut Clam
+Mollusca,Pecten jacobaeus,Mediterranean Scallop
+Mollusca,Pedicularia sicula,Pedicularia
+Mollusca,Pholas dactylus,Piddock
+Mollusca,Pinctada margaritifera,Pearl Oyster
+Mollusca,Placuna placenta,Windowpane Oyster
+Mollusca,Polycera quadrilineata,Sea Slug
+Mollusca,Pomatias elegans,Round-mouthed Snail
+Mollusca,Pseudochama gryphoides,False Jewel Box
+Mollusca,Pterotrachea coronata,Heteropod Snail
+Mollusca,Scutus unguis,Shield Shell
+Mollusca,Sepioteuthis sepioidea,Caribbean Reef Squid
+Mollusca,Spirula spirula,Ram's Horn Squid
+Mollusca,Strophocheilus oblongus,Giant Land Snail
+Mollusca,Tellina tenuis,Thin Tellin
+Mollusca,Tritia incrassata,Thick-lipped Dog Whelk
+Mollusca,Turritella terebra,Auger Shell
+Mollusca,Valvata cristata,Keel Snail
+Mollusca,Volsella modiolus,Horse Mussel
+Mollusca,Xenophora conchyliophora,Carrier Shell
+Annelida,Abarenicola pacifica,Lugworm
+Annelida,Arenicola marina,Lugworm
+Annelida,Branchiomma bombyx,Feather Duster Worm
+Annelida,Chaetopterus variopedatus,Parchment Worm
+Annelida,Cirratulus cirratus,Cirratulid Worm
+Annelida,Clitellio arenarius,Oligochaete Worm
+Annelida,Dero obtusa,Oligochaete Worm
+Annelida,Enchytraeus albidus,Pot Worm
+Annelida,Eunice aphroditois,Bobbit Worm
+Annelida,Eurythoe complanata,Fireworm
+Annelida,Glycera dibranchiata,Bloodworm
+Annelida,Haemopis sanguisuga,Leech
+Annelida,Hediste diversicolor,Ragworm
+Annelida,Helobdella stagnalis,Leech
+Annelida,Hirudo medicinalis,Medicinal Leech
+Annelida,Lumbricus terrestris,Earthworm
+Annelida,Marphysa sanguinea,Ragworm
+Annelida,Megascolex australis,Giant Gippsland Earthworm
+Annelida,Nereis virens,Sandworm
+Annelida,Owenia fusiformis,Tube Worm
+Annelida,Pheretima communissima,Earthworm
+Annelida,Phyllodoce maculata,Paddleworm
+Annelida,Platynereis dumerilii,Ragworm
+Annelida,Pontobdella muricata,Leech
+Annelida,Sabella pavonina,Peacock Worm
+Annelida,Salmacina dysteri,Serpulid Worm
+Annelida,Scoloplos armiger,Orbiniid Worm
+Annelida,Serpula vermicularis,Serpulid Worm
+Annelida,Spirographis spallanzanii,Mediterranean Fanworm
+Annelida,Stylaria lacustris,Oligochaete Worm
+Annelida,Tubifex tubifex,Sludge Worm
+Annelida,Aphrodita aculeata,Sea Mouse
+Annelida,Capitella capitata,Opportunistic Polychaete
+Annelida,Chaetogaster diastrophus,Oligochaete Worm
+Annelida,Dina lineata,Leech
+Annelida,Drilochaera longiseta,Oligochaete Worm
+Annelida,Eiseniella tetraedra,Worm
+Annelida,Eisigella lobifera,Polychaete Worm
+Annelida,Eupolymnia nebulosa,Terebellid Worm
+Annelida,Ficopomatus enigmaticus,Keel Worm
+Annelida,Glossiphonia complanata,Leech
+Annelida,Haplobranchus edwardsii,Polychaete Worm
+Annelida,Harmothoe imbricata,Scale Worm
+Annelida,Hemiclepsis marginata,Leech
+Annelida,Ilyophis brunneus,Cutthroat Eel
+Annelida,Kefersteinia cirrata,Polychaete Worm
+Annelida,Laonice cirrata,Polychaete Worm
+Annelida,Lepidonotus squamatus,Scale Worm
+Annelida,Lumbriculus variegatus,Blackworm
+Annelida,Malacoceros fuliginosus,Spionid Worm
+Annelida,Marenzelleria viridis,Spionid Worm
+Annelida,Myxicola infundibulum,Fan Worm
+Annelida,Nephtys hombergii,Catworm
+Annelida,Nereis pelagica,Ragworm
+Annelida,Ophryotrocha puerilis,Polychaete Worm
+Annelida,Opisthobranchia,Various
+Annelida,Paranais litoralis,Oligochaete Worm
+Annelida,Pectinaria koreni,Trumpet Worm
+Annelida,Perinereis cultrifera,Ragworm
+Annelida,Phascolosoma agassizii,Peanut Worm
+Annelida,Poecilasmatorella,Barnacle
+Annelida,Polycirrus aurantiacus,Terebellid Worm
+Annelida,Pontoporeia affinis,Amphipod
+Annelida,Potamothrix hammoniensis,Oligochaete Worm
+Annelida,Protula magnifica,Fan Worm
+Annelida,Psammoryctides barbatus,Oligochaete Worm
+Annelida,Pseudopotamilla occulata,Fan Worm
+Annelida,Rhodochirus,Priapulid Worm
+Annelida,Sabellastarte indica,Fan Worm
+Annelida,Schistocerca gregaria,Locust
+Annelida,Sipuncula,Peanut Worms
+Annelida,Spio filicornis,Spionid Worm
+Annelida,Sternaspis scutata,Sternaspis Worm
+Annelida,Terebella lapidaria,Stone Worm
+Annelida,Thalassema,Spoon Worm
+Annelida,Tubifex,Tubifex Worm
+Annelida,Vermiliopsis infundibulum,Serpulid Worm
+Annelida,Alciopina parasitica,Parasitic Worm
+Annelida,Amphitrite ornata,Ornate Worm
+Annelida,Aphrodita hastata,Sea Mouse
+Annelida,Armandia maculata,Orbiniid Worm
+Annelida,Axiothella rubrocincta,Cirratulid Worm
+Annelida,Bispira volutacornis,Spiral Fan Worm
+Annelida,Chaetozone setosa,Polychaete Worm
+Annelida,Chloeia flava,Fireworm
+Annelida,Diopatra cuprea,Tube Worm
+Annelida,Eulalia viridis,Paddleworm
+Annelida,Fabricia sabella,Fan Worm
+Annelida,Flabelligera affinis,Polychaete Worm
+Annelida,Goniada brunnea,Goniadid Worm
+Annelida,Harmothoe extenuata,Scale Worm
+Annelida,Heteromastus filiformis,Capitellid Worm
+Annelida,Hydroides elegans,Serpulid Worm
+Annelida,Idanthyrsus pennatus,Parchment Worm
+Annelida,Janua pagenstecheri,Spiral Worm
+Annelida,Laeonereis acuta,Nereid Worm
+Annelida,Lanice conchilega,Sand Mason
+Annelida,Lumbrineris latreilli,Lumbrinerid Worm
+Annelida,Magelona mirabilis,Magelonid Worm
+Annelida,Maldane sarsi,Maldanid Worm
+Annelida,Marphysa belli,Rock Worm
+Annelida,Microphthalmus sczelkowii,Intertidal Worm
+Annelida,Nephtys caeca,Catworm
+Annelida,Notomastus latericeus,Capitellid Worm
+Annelida,Oenone fulgida,Glycerid Worm
+Annelida,Oligochaeta sp.,Oligochaete Worm
+Annelida,Onuphis eremita,Onuphid Worm
+Annelida,Ophelia bicornis,Opheliid Worm
+Annelida,Ophryotrocha labronica,Polychaete Worm
+Annelida,Orbinia latreillii,Orbiniid Worm
+Annelida,Pectinaria californiensis,Trumpet Worm
+Annelida,Phyllodoce groenlandica,Paddleworm
+Annelida,Platynereis australis,Nereid Worm
+Annelida,Polygordius lacteus,Paddleworm
+Annelida,Polydora cornuta,Spionid Worm
+Annelida,Prionospio cirrifera,Spionid Worm
+Annelida,Pygospio elegans,Spionid Worm
+Annelida,Sabella melanostigma,Fan Worm
+Annelida,Scolelepis squamata,Spionid Worm
+Annelida,Serpula columbiana,Serpulid Worm
+Annelida,Siboglinum ekmani,Pogonophoran Worm
+Annelida,Sphaerosyllis hystrix,Syllid Worm
+Annelida,Spiophanes bombyx,Spionid Worm
+Annelida,Spirorbis spirillum,Spiral Worm
+Annelida,Staurocephalus rubrovittatus,Scale Worm
+Annelida,Streblospio benedicti,Spionid Worm
+Annelida,Terebellides stroemii,Terebellid Worm
+Annelida,Tharyx dorsobranchialis,Cirratulid Worm
+Annelida,Travisia forbesii,Travisiid Worm
+Annelida,Trichobranchus glacialis,Terebellid Worm
+Annelida,Typosyllis prolifera,Syllid Worm
+Annelida,Urochorda phantasma,Ghost Worm
+Annelida,Vermilia multivaricosa,Serpulid Worm
+Annelida,Vitjazema mackoi,Pogonophoran Worm
+Annelida,Xerobdella anulata,Terrestrial Leech
+Annelida,Yoldia sapotilla,Polychaete Worm
+Annelida,Zebrina detrita,Polychaete Worm
+Cnidaria,Aequorea victoria,Crystal Jelly
+Cnidaria,Aiptasia diaphana,Glass Anemone
+Cnidaria,Aurelia aurita,Moon Jellyfish
+Cnidaria,Bougainvillia muscoides,Hydroid
+Cnidaria,Calpasoma doliolum,Doliolid
+Cnidaria,Candelabrum cocksii,Candelabrum
+Cnidaria,Cassiopea xamachana,Upside-down Jellyfish
+Cnidaria,Cerianthus lloydii,Dahlia Anemone
+Cnidaria,Chrysaora quinquecirrha,Sea Nettle
+Cnidaria,Cladonema radiatum,Cladonema Jellyfish
+Cnidaria,Clava multicornis,Club Hydroid
+Cnidaria,Codonorchis neocaledonica,Codonorchis
+Cnidaria,Corynactis viridis,Jewel Anemone
+Cnidaria,Cyanea capillata,Lion's Mane Jellyfish
+Cnidaria,Dactylometra quinquecirrha,Sea Nettle
+Cnidaria,Desmonema annasethe,Desmonema
+Cnidaria,Dynamena pumila,Sea Fir
+Cnidaria,Ectopleura larynx,Tubularia
+Cnidaria,Eleutheria dichotoma,Eleutheria
+Cnidaria,Euphysa flammea,Euphysa
+Cnidaria,Favia fragum,Golfball Coral
+Cnidaria,Forskalia edwardsi,Forskalia
+Cnidaria,Gonactinia prolifera,Proliferating Anemone
+Cnidaria,Gonionemus vertens,Clinging Jellyfish
+Cnidaria,Halistemma rubrum,Halistemma
+Cnidaria,Hydra vulgaris,Hydra
+Cnidaria,Hydractinia echinata,Hydractinia
+Cnidaria,Ilyanthus brunneus,Burrowing Anemone
+Cnidaria,Kophobelemnon stelliferum,Kophobelemnon
+Cnidaria,Leuckartiara octona,Leuckartiara
+Cnidaria,Liriope tetraphylla,Liriope
+Cnidaria,Lucernaria campanulata,Stalked Jellyfish
+Cnidaria,Macrorhynchia philippina,Macrorhynchia
+Cnidaria,Madracis decactis,Madracis Coral
+Cnidaria,Millepora alcicornis,Fire Coral
+Cnidaria,Mnemiopsis leidyi,Leidy's Comb Jelly
+Cnidaria,Myrionema amboinense,Myrionema
+Cnidaria,Obelia geniculata,Sea Fur
+Cnidaria,Olindias formosa,Flower Hat Jelly
+Cnidaria,Parazoanthus axinellae,Parazoanthus
+Cnidaria,Pennaria tiarella,Pennaria
+Cnidaria,Phacellophora camtschatica,Fried Egg Jellyfish
+Cnidaria,Physalia physalis,Portuguese Man-of-War
+Cnidaria,Plumularia setacea,Sea Feather
+Cnidaria,Podocoryne carnea,Podocoryne
+Cnidaria,Porites porites,Porites Coral
+Cnidaria,Protoptilum carpenteri,Sea Pen
+Cnidaria,Pseudorhiza limnochares,Mushroom Coral
+Cnidaria,Pteroeides spinosum,Sea Pen
+Cnidaria,Pyrosoma atlanticum,Pyrosome
+Cnidaria,Rhizostoma pulmo,Barrel Jellyfish
+Cnidaria,Sarsia tubulosa,Sarsia
+Cnidaria,Schizocladium ramosum,Schizocladium
+Cnidaria,Solmaris leucostyla,Solmaris
+Cnidaria,Stephanoscyphus mirabilis,Stephanoscyphus
+Cnidaria,Stylophora pistillata,Stylophora Coral
+Cnidaria,Tealia felina,Dahlia Anemone
+Cnidaria,Tubularia indivisa,Oaten Pipes Hydroid
+Cnidaria,Velella velella,By-the-Wind Sailor
+Cnidaria,Actinia equina,Beadlet Anemone
+Cnidaria,Actinodendron arboreum,Tree Anemone
+Cnidaria,Amphianthus dohrnii,Amphianthus
+Cnidaria,Anthopleura elegantissima,Aggregating Anemone
+Cnidaria,Anthopleura xanthogrammica,Giant Green Anemone
+Cnidaria,Apollonias arnoldi,Apollonias
+Cnidaria,Atolla wyvillei,Atolla Jellyfish
+Cnidaria,Bolinopsis infundibulum,Bolinopsis
+Cnidaria,Bunodosoma cavernata,Cavernous Anemone
+Cnidaria,Carybdea marsupialis,Box Jellyfish
+Cnidaria,Clavulina corrugata,Coral
+Cnidaria,Coeloplana willeyi,Comb Jelly
+Cnidaria,Corallium rubrum,Red Coral
+Cnidaria,Coryne pintneri,Coryne
+Cnidaria,Ctenophora,Comb Jellies
+Cnidaria,Dendrophyllia cornigera,Dendrophyllia
+Cnidaria,Discomedusa philippina,Discomedusa
+Cnidaria,Edwardsia callimorphus,Burrowing Anemone
+Cnidaria,Fungia fungites,Mushroom Coral
+Cnidaria,Haliclona oculata,Sponge
+Cnidaria,Heteractis magnifica,Magnificent Anemone
+Cnidaria,Hippopodius hippopus,Hippopodius
+Cnidaria,Leptogorgia virgulata,Sea Whip
+Cnidaria,Lituaria philippinensis,Lituaria
+Cnidaria,Lophelia pertusa,Deep-sea Coral
+Cnidaria,Metridium dianthus,Frilled Anemone
+Cnidaria,Millepora platyphylla,Branching Fire Coral
+Cnidaria,Nemopilema nomurai,Nomura's Jellyfish
+Cnidaria,Oceania armata,Oceania
+Cnidaria,Palythoa caribaea,Sea Mat
+Cnidaria,Paragorgia arborea,Bubblegum Coral
+Cnidaria,Pelagia noctiluca,Mauve Stinger
+Cnidaria,Periphylla periphylla,Helmet Jellyfish
+Cnidaria,Plumularia plumosa,Plumularia
+Cnidaria,Pocillopora damicornis,Pocillopora Coral
+Cnidaria,Renilla reniformis,Sea Pansy
+Cnidaria,Sagitta setosa,Arrow Worm
+Cnidaria,Scleronephthya corymbosa,Soft Coral
+Cnidaria,Stephanoscyphus komaii,Stephanoscyphus
+Cnidaria,Stomolophus meleagris,Cannonball Jellyfish
+Cnidaria,Telesto arborea,Telesto
+Cnidaria,Tethya aurantium,Orange Sponge
+Cnidaria,Tripedalia cystophora,Box Jellyfish
+Cnidaria,Xenia umbellata,Pulse Coral
