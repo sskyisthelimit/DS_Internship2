@@ -111,7 +111,7 @@ def compute_class_weights(dataset):
     Compute class weights based on the class frequencies in the dataset.
     This will calculate weights for each class: ["O", "B-ANIMAL", "I-ANIMAL"].
     """
-    label_counts = [0, 0, 0,]  # Assuming labels: ["O", "B-ANIMAL", "I-ANIMAL"]
+    label_counts = [0, 0, 0]  # Assuming labels: ["O", "B-ANIMAL", "I-ANIMAL"]
 
     for example in dataset:  # Use the training set to calculate class frequencies
         labels = example['labels']
@@ -146,7 +146,7 @@ def compute_loss_with_class_weights(outputs, labels, class_weights):
     loss_fct = torch.nn.CrossEntropyLoss(
         weight=class_weights.to(outputs.device), ignore_index=-100)
     
-    return loss_fct(outputs.view(-1, 5), labels.view(-1))
+    return loss_fct(outputs.view(-1, 3), labels.view(-1))
 
 
 def tokenize_and_label_regular(sentence, tokens, labels, tokenizer):
