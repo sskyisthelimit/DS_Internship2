@@ -6,8 +6,9 @@ from sklearn.metrics import (precision_score,
 import numpy as np
 import json
 
-from inference import label2id
-
+labels = ["O", "B-ANIMAL", "I-ANIMAL"]
+label2id = {label: idx for idx, label in enumerate(labels)}
+id2label = {idx: label for label, idx in label2id.items()}
 
 class JSONDataset(Dataset):
     def __init__(self, json_file, tokenizer, label2id, max_len=256):
