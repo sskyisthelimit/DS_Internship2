@@ -21,8 +21,8 @@ model_name = "bert-base-cased"
 tokenizer = BertTokenizerFast.from_pretrained(model_name)
 
 # File paths
-train_file = "../datasets/training_dataset.json"
-val_file = "../datasets/val_dataset.json"
+train_file = "../dataset/processed/training_dataset.json"
+val_file = "../dataset/processed/val_dataset.json"
 
 
 # Dataset Class (defined earlier)
