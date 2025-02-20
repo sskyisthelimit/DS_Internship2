@@ -89,7 +89,6 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     model = model.to(args.device)
-    tokenizer = tokenizer.to(args.device)
 
     predict_ner_labels(
         args.sentence,
