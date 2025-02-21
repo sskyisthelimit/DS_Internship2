@@ -7,6 +7,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
 import joblib
 
+
 class MnistClassifierInterface(abc.ABC):
     @abc.abstractmethod
     def train(self, loader, epochs=7):
@@ -36,19 +37,23 @@ class RFMnistClassifier(MnistClassifierInterface):
             y_train.extend(labels.numpy())
         self.model.fit(X_train, y_train)
 
-    def eval(self, loader, log_filename="RF_report.log"):
+    def eval(self, loader, log_filename="RF_report.log", save_report=True):
         y_true, y_pred = [], []
         pbar = tqdm(loader, desc="RF Evaluation", unit="batch")
         for images, labels in pbar:
             preds = self.predict(images)
             y_pred.extend(preds)
             y_true.extend(labels.numpy())
-        report = classification_report(y_true, y_pred, digits=4)
-        with open(log_filename, "w") as f:
-            f.write(report)
         
+        report = classification_report(y_true, y_pred, digits=4)
         print("RF classification report")
         print(report)
+
+        if save_report:
+            with open(log_filename, "w") as f:
+                f.write(report)    
+        
+        return y_pred
 
     def predict(self, input):
         input = input.view(input.shape[0], -1).numpy()
@@ -99,7 +104,7 @@ class NNMnistClassifier(MnistClassifierInterface):
             print(f"Epoch {epoch+1}, Loss: {total_loss/len(loader):.4f}, "
                   f"Accuracy: {correct_n/len(loader.dataset)*100:.2f}%")
 
-    def eval(self, loader, log_filename="FCNN_report.log"):
+    def eval(self, loader, log_filename="FCNN_report.log", save_report=True):
         self.model.eval()
         y_true, y_pred = [], []
         pbar = tqdm(loader, desc="FCNN Evaluation", unit="batch")
@@ -111,10 +116,14 @@ class NNMnistClassifier(MnistClassifierInterface):
             y_true.extend(labels.cpu().numpy())
             y_pred.extend(preds.cpu().numpy())
         report = classification_report(y_true, y_pred, digits=4)
-        with open(log_filename, "w") as f:
-            f.write(report)
         print("FCNN classification report")
         print(report)
+        
+        if save_report:
+            with open(log_filename, "w") as f:
+                f.write(report)
+        
+        return y_pred
 
     def predict(self, input):
         self.model.eval()
@@ -175,7 +184,7 @@ class CNNMnistClassifier(MnistClassifierInterface):
             print(f"Epoch {epoch+1}, Loss: {total_loss/len(loader):.4f}, "
                   f"Accuracy: {correct_n/len(loader.dataset)*100:.2f}%")
     
-    def eval(self, loader, log_filename="CNN_report.log"):
+    def eval(self, loader, log_filename="CNN_report.log", save_report=True):
         self.model.eval()
         y_true, y_pred = [], []
         pbar = tqdm(loader, desc="CNN Evaluation", unit="batch")
@@ -186,12 +195,16 @@ class CNNMnistClassifier(MnistClassifierInterface):
                 preds = outputs.argmax(1)
             y_true.extend(labels.cpu().numpy())
             y_pred.extend(preds.cpu().numpy())
-        report = classification_report(y_true, y_pred, digits=4)
-        with open(log_filename, "w") as f:
-            f.write(report)
         
+        report = classification_report(y_true, y_pred, digits=4)
         print("CNN classification report")
         print(report)
+
+        if save_report:
+            with open(log_filename, "w") as f:
+                f.write(report)    
+        
+        return y_pred
             
     def predict(self, input):
         self.model.eval()
