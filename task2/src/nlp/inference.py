@@ -1,6 +1,3 @@
-# i was really confused by definition of inference file
-# please better check out demo notebook which also is a test report notebook
-
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 import torch
 
