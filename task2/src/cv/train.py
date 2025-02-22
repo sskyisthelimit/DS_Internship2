@@ -14,7 +14,7 @@ from torch.utils.data import DataLoader
 from torchvision import transforms, models
 
 from sklearn.metrics import classification_report
-from src.cv.utils import AnimalDataset  # Make sure this accepts a DataFrame and a transform
+from utils import AnimalDataset  # Make sure this accepts a DataFrame and a transform
 
 # Label mapping and unique labels
 label_mapping = {
