@@ -4,7 +4,7 @@ import torch.nn as nn
 from torch.utils.data import DataLoader
 from torchvision import transforms, models
 from sklearn.metrics import classification_report
-from src.cv.utils import AnimalDataset  # Ensure this is accessible
+from utils import AnimalDataset  # Ensure this is accessible
 
 # Define the same unique labels and target transform for test images
 unique_labels = ['dog', 'horse', 'elephant', 'butterfly', 'chicken', 'cat', 'cow', 'sheep', 'spider', 'squirrel']
