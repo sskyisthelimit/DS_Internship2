@@ -1,2 +1,4 @@
 # virtual env
 virt/
+# pycache
+__pycache__/
