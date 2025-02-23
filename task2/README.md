@@ -47,7 +47,7 @@
 
 ## Final result (inference script):
 
-`/home/skyisthelimit/code/projects/DS_Internship2/task2/notebooks/demo.ipynb`
+`task2/notebooks/demo.ipynb`
 
 ## Usage
 
