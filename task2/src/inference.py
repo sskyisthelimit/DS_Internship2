@@ -15,9 +15,6 @@ if __name__ == "__main__":
                         help='Path for image file.', required=True)
     parser.add_argument('--sentence', type=str,
                         help='A sentence string.', required=True)
-    parser.add_argument('--cv_model_weights', type=str,
-                        help='Path for cv classifier model weights.',
-                        default="../weights/animals_checkpoint.pth")
     parser.add_argument('--device', type=str,
                         help='A device string.', required=True)
 
@@ -32,8 +29,14 @@ if __name__ == "__main__":
         device=args.device,
         print_pairs=False)
     
+    RELEASE_ASSET_URL = "https://github.com/sskyisthelimit/DS_Internship2/releases/download/v1.0.0/animals_checkpoint.pth"
+    cv_weights_path = "../../weights"
+    os.makedirs(cv_weights_path, exist_ok=True)
+    
+    from cv.utils import download_file
+    download_file(RELEASE_ASSET_URL, cv_weights_path)
     clsf_pred = predict_animal(img_path=args.image_path,
-                               weights_path=args.cv_model_weights)
+                               weights_path=cv_weights_path)
     
     clsf_pred_label = clsf_pred.tolist()[0]
     clsf_pred_name = unique_labels[clsf_pred_label] 
