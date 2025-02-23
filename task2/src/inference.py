@@ -30,9 +30,9 @@ if __name__ == "__main__":
         print_pairs=False)
     
     RELEASE_ASSET_URL = "https://github.com/sskyisthelimit/DS_Internship2/releases/download/v1.0.0/animals_checkpoint.pth"
-    cv_weights_path = "../../weights"
-    os.makedirs(cv_weights_path, exist_ok=True)
-    
+    cv_weights_dir = "../../weights"
+    os.makedirs(cv_weights_dir, exist_ok=True)
+    cv_weights_path = os.path.join(cv_weights_dir, "animals_checkpoint.pth")
     from cv.utils import download_file
     download_file(RELEASE_ASSET_URL, cv_weights_path)
     clsf_pred = predict_animal(img_path=args.image_path,
