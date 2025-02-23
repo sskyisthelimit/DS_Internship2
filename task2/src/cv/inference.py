@@ -12,10 +12,15 @@ pred_transform = transforms.Compose([
     transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
 ])
 
-def predict_animal(img_path, weights_path):
-    image = pred_transform(Image.open(img_path).convert('RGB')).unsqueeze(0)
 
+def predict_animal(img_path, weights_path):
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
+    image = pred_transform(
+        Image.open(img_path).convert('RGB')
+        ).unsqueeze(0).to(device)
     model = models.efficientnet_v2_m(weights='DEFAULT')
+
     for param in model.parameters():
         param.requires_grad = False
 
@@ -32,17 +37,16 @@ def predict_animal(img_path, weights_path):
         nn.Linear(256, len(unique_labels))
     )
     
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     model = model.to(device)
     
     model.load_state_dict(torch.load(weights_path, map_location=device))
     model.eval()
 
-
     outputs = model(image)
     _, preds = torch.max(outputs, 1)
 
     return preds
+
 
 if __name__ == '__main__':
     import argparse
