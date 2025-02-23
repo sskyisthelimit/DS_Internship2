@@ -1,3 +1,6 @@
+import os
+os.environ["CUBLAS_WORKSPACE_CONFIG"] = ":16:8"
+
 from nlp.inference import (
     predict_ner_labels, post_process_tokens_and_labels,
     model, tokenizer)

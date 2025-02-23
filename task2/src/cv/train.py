@@ -1,5 +1,4 @@
-import os
-os.environ["CUBLAS_WORKSPACE_CONFIG"] = ":16:8"
+
 
 import numpy as np
 import pandas as pd
@@ -15,6 +14,7 @@ from torchvision import transforms, models
 
 from sklearn.metrics import classification_report
 from utils import AnimalDataset  # Make sure this accepts a DataFrame and a transform
+import os
 
 # Label mapping and unique labels
 label_mapping = {
@@ -33,17 +33,19 @@ unique_labels = ['dog', 'horse', 'elephant', 'butterfly', 'chicken', 'cat', 'cow
 
 
 def seed_everything(seed=42):
+    os.environ["CUBLAS_WORKSPACE_CONFIG"] = ":16:8"
     torch.manual_seed(seed)
     np.random.seed(seed)
     random.seed(seed)
     torch.use_deterministic_algorithms(True)
 
-seed_everything()
 
 def train(dataset_dir, batch_size, target_size,
           test_set_paths,
           ckpt_save_path,
           num_epochs):
+    
+    seed_everything()
     
     def convert_path_to_df(dataset):
         image_dir = Path(dataset)
