@@ -44,7 +44,9 @@ def evaluate_model(test_csv, checkpoint_path, batch_size):
     model = model.to(device)
     
     # Load the saved model weights
-    model.load_state_dict(torch.load(checkpoint_path, map_location=device))
+    model.load_state_dict(torch.load(checkpoint_path,
+                                     map_location=device,
+                                     weights_only=True))
     model.eval()
 
     all_preds = []

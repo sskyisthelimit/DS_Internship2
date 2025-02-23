@@ -137,7 +137,8 @@ class NNMnistClassifier(MnistClassifierInterface):
 
     def load(self, filename):
         self.model.load_state_dict(torch.load(filename,
-                                              map_location=self.device))
+                                              map_location=self.device,
+                                              weights_only=True))
 
 
 class CNNMnistClassifier(MnistClassifierInterface):
@@ -218,7 +219,8 @@ class CNNMnistClassifier(MnistClassifierInterface):
 
     def load(self, filename):
         self.model.load_state_dict(torch.load(filename,
-                                              map_location=self.device))
+                                              map_location=self.device,
+                                              weights_only=True))
 
 
 class MnistClassifier:

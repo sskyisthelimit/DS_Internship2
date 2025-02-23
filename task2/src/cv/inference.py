@@ -39,7 +39,9 @@ def predict_animal(img_path, weights_path):
     
     model = model.to(device)
     
-    model.load_state_dict(torch.load(weights_path, map_location=device))
+    model.load_state_dict(torch.load(weights_path,
+                                     map_location=device,
+                                     weights_only=True))
     model.eval()
 
     outputs = model(image)
